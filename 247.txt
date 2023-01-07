@@ -80,12 +80,12 @@ Pode ser em qualquer páreo.
 Pode ser.
 
 18
-00:02:54,265 --> 00:02:57,951
+00:02:54,265 --> 00:02:57,651
 "Um dólar cinco" é o próximo
 a ganhar em quinto lugar.
 
 19
-00:03:00,911 --> 00:03:03,362
+00:03:00,611 --> 00:03:03,362
 -Você pegou muita gente.
 -Sim.
 
@@ -162,7 +162,7 @@ Lucky Arrow em terceiro por um corpo,</i>
 terminou em quarto.</i>
 
 35
-00:04:13,965 --> 00:04:15,784
+00:04:13,665 --> 00:04:15,784
 Esperando o resultado
 oficial do páreo
 
@@ -176,22 +176,22 @@ ele tivesse tido muito efeito
 no resultado final da operação
 
 38
-00:04:20,333 --> 00:04:22,994
+00:04:20,333 --> 00:04:22,694
 como um único pedaço de um
 quebra-cabeça gigantesco
 
 39
-00:04:23,005 --> 00:04:24,997
+00:04:23,005 --> 00:04:24,697
 para seu desígnio
 final pré-determinado.
 
 40
-00:04:25,141 --> 00:04:27,969
+00:04:25,141 --> 00:04:27,669
 Só a soma dos fragmentos
 perdidos do quebra-cabeça
 
 41
-00:04:27,980 --> 00:04:31,896
+00:04:27,680 --> 00:04:31,896
 poderiam revelar se o quadro
 estava como ele achou que seria.
 
@@ -288,12 +288,12 @@ Nem eu quero isto.
 Sei das minhas obrigações.
 
 62
-00:05:53,369 --> 00:05:56,982
+00:05:53,369 --> 00:05:56,682
 Estou ansioso para pagar, como você
 para receber, mas não tenho a grana.
 
 63
-00:05:56,992 --> 00:06:01,687
+00:05:56,692 --> 00:06:01,687
 Bem, todos nós passamos por
 problemas de vez em quando.
 
@@ -307,12 +307,12 @@ a sua dívida com um novo empréstimo.
 Dar a você um novo começo.
 
 66
-00:06:07,903 --> 00:06:10,896
+00:06:07,603 --> 00:06:10,896
 Escute. Estou quebrado.
 Entendeu? Quebrado.
 
 67
-00:06:10,906 --> 00:06:14,560
+00:06:10,606 --> 00:06:14,560
 Não posso lhe dar 1.000 centavos,
 mas se puder esperar duas semanas...
 
@@ -322,11 +322,11 @@ Poderia ser organizado,
 com os próprios parentes, claro.
 
 69
-00:06:18,350 --> 00:06:20,905
+00:06:18,350 --> 00:06:20,605
 Não posso falar de onde vem.
 
 70
-00:06:20,915 --> 00:06:26,611
+00:06:20,615 --> 00:06:26,611
 Tudo que posso contar, é que é
 uma boa transação e poderei pagar.
 
@@ -451,12 +451,12 @@ Cinco anos me ensinaram uma coisa,
 nada mais:
 
 97
-00:07:43,696 --> 00:07:46,947
+00:07:43,696 --> 00:07:46,647
 Se você tem uma oportunidade, é
 melhor estar certo se vale a pena.
 
 98
-00:07:46,957 --> 00:07:50,693
+00:07:46,657 --> 00:07:50,693
 Eles podem rapidamente te ferrar
 por $10, como por um milhão.
 
@@ -1014,7 +1014,7 @@ Se você quer agir deste jeito,
 certamente não tentarei pará-lo.
 
 215
-00:14:39,908 --> 00:14:42,792
+00:14:39,608 --> 00:14:42,792
 Querida, mel, não me magoe.
 
 216
@@ -1224,12 +1224,12 @@ Aconteceu nas últimas
 vezes que liguei...
 
 259
-00:16:58,667 --> 00:17:00,918
+00:16:58,667 --> 00:17:00,618
 Eu saio de vez em quando.
 Você tem seu marido.
 
 260
-00:17:00,928 --> 00:17:03,662
+00:17:00,628 --> 00:17:03,662
 O sujeito gasta até o
 último níquel com você.
 
@@ -1489,7 +1489,7 @@ isto, mesmo preparados.
 O outro começa a briga no bar.
 
 314
-00:19:48,899 --> 00:19:52,902
+00:19:48,899 --> 00:19:52,602
 Os outros chapas? Qual a parte
 deles? Não que eu ligue...
 
@@ -1553,7 +1553,7 @@ agir como todo mundo.
 -Seu dinheiro vale muito.
 
 327
-00:20:26,907 --> 00:20:30,863
+00:20:26,607 --> 00:20:30,863
 -Nenhum deles está reclamando.
 -Você tem valor pra nós, Marv.
 
@@ -1601,12 +1601,12 @@ George, Mike, quero que revisem
 tudo comigo, polegada por polegada.
 
 337
-00:21:00,602 --> 00:21:03,903
+00:21:00,602 --> 00:21:03,603
 Traga completamente atualizado.
 Some ou subtraia a menor mudança
 
 338
-00:21:03,913 --> 00:21:07,340
+00:21:03,613 --> 00:21:07,340
 até mesmo algo pequeno, como
 uma carroça de cachorro quente.
 
@@ -1698,12 +1698,12 @@ Eles estão armados, e é assim que
 os detetives do jóquei os cobrem
 
 357
-00:21:58,056 --> 00:21:59,907
+00:21:58,056 --> 00:21:59,607
 do carro para o
 escritório e na volta.
 
 358
-00:21:59,917 --> 00:22:03,394
+00:21:59,617 --> 00:22:03,394
 Quando o carro blindado chega,
 é só esperar
 
@@ -1744,12 +1744,12 @@ Pensa que estou louco?
 Seu idiota. Palhaço!
 
 367
-00:22:48,707 --> 00:22:50,958
+00:22:48,707 --> 00:22:50,658
 Venha, palhaço.
 Cante um pouco de "Pagliacci."
 
 368
-00:22:50,968 --> 00:22:54,703
+00:22:50,668 --> 00:22:54,703
 Melhor você falar. Seja claro.
 Fale, ou nos livraremos dela.
 
@@ -1819,12 +1819,12 @@ Você a deixará ir, não é?
 -Randy, Mike.
 
 383
-00:23:38,755 --> 00:23:41,906
+00:23:38,755 --> 00:23:41,606
 Leve-o para o apartamento dele.
 Fiquem com ele até eu telefonar.
 
 384
-00:23:41,916 --> 00:23:44,751
+00:23:41,616 --> 00:23:44,751
 -Não vou deixar Sherry aqui.
 -Você está indo, certo.
 
@@ -1997,16 +1997,16 @@ Mas se não, esqueceremos tudo.
 Você não terá um centavo.
 
 420
-00:26:10,924 --> 00:26:12,106
+00:26:10,624 --> 00:26:12,106
 Não gostaria disso.
 
 421
-00:26:12,166 --> 00:26:14,961
+00:26:12,166 --> 00:26:14,661
 Delicada como sou,
 preferiria ficar entupida.
 
 422
-00:26:14,972 --> 00:26:18,708
+00:26:14,672 --> 00:26:18,708
 Acho que nos entendemos.
 Agora, saia.
 
@@ -2137,12 +2137,12 @@ queira um sujeito como eu.
 Vamos parar com isso, George.
 
 449
-00:27:31,613 --> 00:27:34,964
+00:27:31,613 --> 00:27:34,664
 Você pôs as palavras na minha boca,
 e aí você diz que não é verdade.
 
 450
-00:27:34,974 --> 00:27:37,350
+00:27:34,674 --> 00:27:37,350
 Contei-lhe exatamente
 o que aconteceu.
 
@@ -2344,12 +2344,12 @@ Vá chatear outro.
 Não sabe o que está falando.
 
 493
-00:29:52,350 --> 00:29:54,951
+00:29:52,350 --> 00:29:54,651
 Ele não pôde fazer isso.
 Não sabe o que está falando.
 
 494
-00:29:54,961 --> 00:29:56,444
+00:29:54,661 --> 00:29:56,444
 Cale-se! Faça um movimento.
 
 495
@@ -2363,7 +2363,7 @@ Poderia ter pegado sua torre.
 -Pare de falar, ou chamarei Fisher.
 
 497
-00:30:01,459 --> 00:30:03,960
+00:30:01,459 --> 00:30:03,660
 Não posso pensar com
 todo esse barulho!
 
@@ -2728,12 +2728,12 @@ Sábado que vem,
 $100.000 estarão correndo.
 
 575
-00:33:56,387 --> 00:33:59,988
+00:33:56,387 --> 00:33:59,688
 No sétimo páreo. A grande corrida da
 estação, um certo cavalo vai correr.
 
 576
-00:33:59,998 --> 00:34:02,383
+00:33:59,698 --> 00:34:02,383
 Ele é um do três melhores
 nos últimos dez anos.
 
@@ -2758,7 +2758,7 @@ De um carro estacionado
 no canto sudeste dali
 
 581
-00:34:12,761 --> 00:34:16,997
+00:34:12,761 --> 00:34:16,697
 você terá uma visão perfeita
 dos cavalos e da partida.
 
@@ -2823,12 +2823,12 @@ Nem mesmo é assassinato. O melhor
 que eles poderiam fazer seria
 
 594
-00:34:53,442 --> 00:34:56,935
+00:34:53,442 --> 00:34:56,635
 incitação de revolta ou atirar
 nos cavalos fora da estação.
 
 595
-00:34:56,945 --> 00:35:00,439
+00:34:56,645 --> 00:35:00,439
 O modo como põe isto,
 faz soar realmente simples.
 
@@ -2838,12 +2838,12 @@ Cinco mil dólares para
 apagar um cavalo.
 
 597
-00:35:03,452 --> 00:35:07,946
+00:35:03,452 --> 00:35:07,646
 -Certo. Como pego isto?
 -2.500 hoje, 2.500 depois da corrida.
 
 598
-00:35:07,956 --> 00:35:11,450
+00:35:07,656 --> 00:35:11,450
 Certo, louco. Agora me diga.
 Qual a sua ideia, John?
 
@@ -2903,7 +2903,7 @@ Quero um lugar para
 ficar por uma semana.
 
 610
-00:35:55,511 --> 00:35:58,995
+00:35:55,511 --> 00:35:58,695
 Não quero limpo,
 e não quero ninguém, só eu.
 
@@ -3081,12 +3081,12 @@ Seus problemas serão
 meus problemas.
 
 647
-00:38:30,653 --> 00:38:33,904
+00:38:30,653 --> 00:38:33,604
 Sempre que estiver preocupado com
 algo, como agora, por exemplo...
 
 648
-00:38:33,914 --> 00:38:37,649
+00:38:33,614 --> 00:38:37,649
 -E você está preocupado.
 -Acho que um pouco.
 
@@ -3357,7 +3357,7 @@ Provavelmente não
 nos veremos mais
 
 704
-00:41:45,842 --> 00:41:48,993
+00:41:45,842 --> 00:41:48,693
 depois que dividirmos o dinheiro,
 e nos separarmos hoje à noite.
 
@@ -3451,7 +3451,7 @@ Case-se, quero dizer.
 Melhor voltar a dormir.
 
 724
-00:42:46,901 --> 00:42:51,596
+00:42:46,601 --> 00:42:51,596
 O sétimo páreo começa por volta
 das 4:30, se quiser ouvir no rádio.
 
@@ -3461,16 +3461,16 @@ Estarei de volta
 aproximadamente às 7:00.
 
 726
-00:42:56,853 --> 00:42:59,904
+00:42:56,853 --> 00:42:59,604
 Mantenha-se longe das corridas.
 Vá ver um filme ou algo assim.
 
 727
-00:42:59,914 --> 00:43:02,647
+00:42:59,614 --> 00:43:02,647
 Até logo mais.
 
 728
-00:43:05,919 --> 00:43:09,654
+00:43:05,619 --> 00:43:09,654
 Eram exatamente 7:00 da manhã
 quando ele chegou ao aeroporto.
 
@@ -3480,17 +3480,17 @@ O peso está certo, Sr. Preston.
 Esta é toda a bagagem?
 
 730
-00:43:14,528 --> 00:43:17,921
+00:43:14,528 --> 00:43:17,621
 Terei um pouco mais à noite.
 Poderei levar comigo, não é?
 
 731
-00:43:17,931 --> 00:43:20,924
+00:43:17,631 --> 00:43:20,624
 Sim, mas tem que checar
 aqui antes do voo.
 
 732
-00:43:20,934 --> 00:43:23,692
+00:43:20,634 --> 00:43:23,692
 Voo 465 partindo
 às 9:00 da noite.
 
@@ -3562,17 +3562,17 @@ Ele chegou à
 rodoviária às 8:45.
 
 747
-00:45:19,214 --> 00:45:21,907
+00:45:19,214 --> 00:45:21,607
 Eram 9:20 quando ele chegou
 no apartamento de Mike.
 
 748
-00:45:21,917 --> 00:45:25,253
+00:45:21,617 --> 00:45:25,253
 Até então, tudo tinha ido
 de acordo com o plano.
 
 749
-00:45:33,929 --> 00:45:35,821
+00:45:33,629 --> 00:45:35,821
 Mike O'Reilly estava
 pronto às 11:15.
 
@@ -3581,66 +3581,66 @@ pronto às 11:15.
 O que está acontecendo?
 
 751
-00:45:37,698 --> 00:45:39,925
+00:45:37,698 --> 00:45:39,625
 Este não é o jeito de
 recuperar a sua força.
 
 752
-00:45:39,935 --> 00:45:43,929
+00:45:39,635 --> 00:45:43,629
 Está muito bom,
 mas acho que não tenho fome.
 
 753
-00:45:43,939 --> 00:45:45,340
+00:45:43,639 --> 00:45:45,340
 Não posso dar outra mordida.
 
 754
-00:45:45,350 --> 00:45:47,932
+00:45:45,350 --> 00:45:47,632
 Outra? Você não comeu nada.
 
 755
-00:45:47,942 --> 00:45:51,936
+00:45:47,642 --> 00:45:51,636
 Comerei algo depois de
 tomar o meu remédio.
 
 756
-00:45:51,946 --> 00:45:54,939
+00:45:51,646 --> 00:45:54,639
 -Aí terei mais apetite.
 -É uma promessa. Não um truque.
 
 757
-00:45:54,949 --> 00:45:59,143
+00:45:54,649 --> 00:45:59,143
 É uma promessa.
 Melhor você ir ou chegará atrasado.
 
 758
-00:45:59,153 --> 00:46:01,946
+00:45:59,153 --> 00:46:01,646
 Sim, acho que irei.
 
 759
-00:46:01,956 --> 00:46:04,949
+00:46:01,656 --> 00:46:04,649
 Ruthie, as coisas vão
 melhorar muito para nós.
 
 760
-00:46:04,959 --> 00:46:07,952
+00:46:04,659 --> 00:46:07,652
 Eu sei, eu sei, querido.
 
 761
-00:46:07,962 --> 00:46:10,955
+00:46:07,662 --> 00:46:10,655
 Sei que fiz muitas
 promessas no passado, mas
 
 762
-00:46:10,965 --> 00:46:12,957
+00:46:10,665 --> 00:46:12,657
 agora não é só conversa.
 
 763
-00:46:12,967 --> 00:46:14,959
+00:46:12,667 --> 00:46:14,659
 Vamos ficar ricos, e logo.
 
 764
-00:46:14,969 --> 00:46:18,096
+00:46:14,669 --> 00:46:18,096
 Você terá uma casa boa e médicos
 que a farão ficar bem de novo.
 
@@ -3654,12 +3654,12 @@ Melhor ir ou se atrasará.
 Sim.
 
 767
-00:46:26,480 --> 00:46:27,971
+00:46:26,480 --> 00:46:27,671
 -Mike.
 -Sim.
 
 768
-00:46:27,981 --> 00:46:30,794
+00:46:27,681 --> 00:46:30,794
 Na volta para casa,
 pode me trazer algumas revistas?
 
@@ -3668,21 +3668,21 @@ pode me trazer algumas revistas?
 Claro.
 
 770
-00:46:32,396 --> 00:46:36,980
+00:46:32,396 --> 00:46:36,680
 Mas vou chegar um pouco mais tarde,
 provavelmente lá pelas 10:00.
 
 771
-00:46:36,990 --> 00:46:39,791
+00:46:36,690 --> 00:46:39,791
 Alguns dos companheiros e eu
 teremos uma pequena reunião.
 
 772
-00:46:39,801 --> 00:46:40,984
+00:46:39,801 --> 00:46:40,684
 Entendo.
 
 773
-00:46:40,994 --> 00:46:43,487
+00:46:40,694 --> 00:46:43,487
 Não beba muita cerveja.
 
 774
@@ -3800,7 +3800,7 @@ Desculpe, Bill.
 Achei legal a sua oferta.
 
 798
-00:49:03,906 --> 00:49:05,898
+00:49:03,606 --> 00:49:05,898
 Depois de trabalho,
 sabe como é.
 
@@ -3848,16 +3848,16 @@ Concentrator, e Trumpet king.</i>
 Concentrator até a linha final.</i>
 
 808
-00:50:12,900 --> 00:50:15,892
+00:50:12,600 --> 00:50:15,892
 <i>E Second Ending é o
 vencedor por meio corpo.</i>
 
 809
-00:50:15,902 --> 00:50:17,894
+00:50:15,602 --> 00:50:17,894
 <i>O segundo é Concentrator...</i>
 
 810
-00:50:17,904 --> 00:50:20,638
+00:50:17,604 --> 00:50:20,638
 <i>Em terceiro Trumpet
 king e My Baby.</i>
 
@@ -3891,7 +3891,7 @@ Não acha que já bebeu bastante,
 camarada?
 
 817
-00:50:56,008 --> 00:50:56,999
+00:50:56,008 --> 00:50:56,699
 <i>Atenção, por favor.</i>
 
 818
@@ -4000,7 +4000,7 @@ pista para o sétimo páreo.</i>
 milha em Landsdowne.</i>
 
 840
-00:53:02,982 --> 00:53:05,524
+00:53:02,682 --> 00:53:05,524
 <i>E eles vão correndo!</i>
 
 841
@@ -4018,12 +4018,12 @@ Mais cedo naquela tarde, às 2:30,
 Maurice no clube de xadrez.
 
 844
-00:53:16,545 --> 00:53:18,946
+00:53:16,545 --> 00:53:18,646
 Ele deveria estar no
 jóquei em posição às 4:00
 
 845
-00:53:18,956 --> 00:53:21,690
+00:53:18,656 --> 00:53:21,690
 logo antes do começo
 da sétima corrida.
 
@@ -4042,12 +4042,12 @@ fizesse uma coisa pra mim.
 Claro. O que é?
 
 849
-00:53:33,271 --> 00:53:35,953
+00:53:33,271 --> 00:53:35,653
 Você liga para este número,
 chama o Sr. Stillman,
 
 850
-00:53:35,963 --> 00:53:39,256
+00:53:35,663 --> 00:53:39,256
 e lhe diz que Maurice
 precisa dos serviços dele.
 
@@ -4115,12 +4115,12 @@ pista para o sétimo páreo.</i>
 milha em Landsdowne.</i>
 
 864
-00:54:45,980 --> 00:54:48,265
+00:54:45,680 --> 00:54:48,265
 -Sim, senhor.
 -Uma cerveja.
 
 865
-00:54:51,679 --> 00:54:55,980
+00:54:51,679 --> 00:54:55,680
 <i>Os cavalos se aproximam do
 portão para iniciar o sétimo páreo.</i>
 
@@ -4138,7 +4138,7 @@ portão para iniciar o sétimo páreo.</i>
 <i>Os cavalos estão no portão.</i>
 
 869
-00:55:10,932 --> 00:55:13,471
+00:55:10,632 --> 00:55:13,471
 ENTRADA PROIBIDA
 
 870
@@ -4174,12 +4174,12 @@ Ele chegou no jóquei às 12:30.
 -Use o outro estacionamento.
 
 877
-00:57:34,394 --> 00:57:36,945
+00:57:34,394 --> 00:57:36,645
 -Não quero te aborrecer.
 -Não está me aborrecendo.
 
 878
-00:57:36,955 --> 00:57:39,957
+00:57:36,655 --> 00:57:39,657
 Não tem vaga aqui, e só isso.
 
 879
@@ -4187,7 +4187,7 @@ Não tem vaga aqui, e só isso.
 Olhe, Mac, sou paraplégico,
 
 880
-00:57:42,603 --> 00:57:45,996
+00:57:42,603 --> 00:57:45,696
 e quero estacionar aqui para
 assistir à corrida do carro.
 
@@ -4238,7 +4238,7 @@ Vai tirar a barreira? Gostaria de
 me preparar antes do primeiro páreo.
 
 891
-00:58:18,937 --> 00:58:21,699
+00:58:18,637 --> 00:58:21,699
 -Certo?
 -Certo, senhor.
 
@@ -4280,7 +4280,7 @@ obrigado.
 Em quem apostou, senhor?
 
 900
-00:59:13,929 --> 00:59:15,610
+00:59:13,629 --> 00:59:15,610
 -Red Lightning.
 -Quê?
 
@@ -4300,17 +4300,17 @@ Acho que é melhor
 voltar ao trabalho.
 
 904
-00:59:24,901 --> 00:59:28,294
+00:59:24,601 --> 00:59:28,294
 -Obrigado por me trazer o programa.
 -Não foi nada.
 
 905
-00:59:28,304 --> 00:59:30,905
+00:59:28,304 --> 00:59:30,605
 Tem certeza que não há nada
 que possa fazer por você?
 
 906
-00:59:30,915 --> 00:59:35,351
+00:59:30,615 --> 00:59:35,351
 Nada. Se precisar de algo,
 lhe darei um grito.
 
@@ -4407,7 +4407,7 @@ tê-lo aborrecido.
 Erro meu.
 
 926
-01:01:28,967 --> 01:01:31,514
+01:01:28,667 --> 01:01:31,514
 <i>E eles estão correndo!</i>
 
 927
@@ -4453,12 +4453,12 @@ por um quarto de corpo,</i>
 de meia milha...</i>
 
 936
-01:01:55,709 --> 01:01:57,910
+01:01:55,709 --> 01:01:57,610
 <i>Red Lightning ganha por
 um corpo e um quarto.</i>
 
 937
-01:01:57,921 --> 01:02:00,542
+01:01:57,621 --> 01:02:00,542
 <i>I'm Hoping é o segundo
 por meio corpo.</i>
 
@@ -4549,7 +4549,7 @@ pista para o sétimo páreo.</i>
 milha em Landsdowne.</i>
 
 956
-01:04:16,984 --> 01:04:19,477
+01:04:16,684 --> 01:04:19,477
 <i>Os cavalos se aproximam
 do portão de partida</i>
 
@@ -4717,7 +4717,7 @@ Guardem todos os ingressos.</i>
 investigação na corrida do sétimo páreo,</i>
 
 991
-01:06:45,462 --> 01:06:47,928
+01:06:45,462 --> 01:06:47,628
 <i>e eles assistirão ao filme.</i>
 
 992
@@ -4836,32 +4836,32 @@ Feche!
 -O que você está fazendo?
 
 1017
-01:10:23,973 --> 01:10:26,966
+01:10:23,673 --> 01:10:26,666
 <i>Interrompemos esta transmissão para
 levar a vocês um boletim especial.</i>
 
 1018
-01:10:26,976 --> 01:10:30,970
+01:10:26,676 --> 01:10:30,670
 <i>Em um do mais ousados assaltos a mão
 armada executados na história criminal</i>
 
 1019
-01:10:30,980 --> 01:10:34,974
+01:10:30,680 --> 01:10:34,674
 <i>um bandido solitário com uma máscara
 de borracha hoje levou $2 milhões</i>
 
 1020
-01:10:34,984 --> 01:10:38,643
+01:10:34,684 --> 01:10:38,643
 <i>enchendo uma bolsa dos escritórios
 da pista de corridas de Landsdowne.</i>
 
 1021
-01:10:38,653 --> 01:10:40,980
+01:10:38,653 --> 01:10:40,680
 <i>Aconteceu durante a
 corrida do sétimo páreo,</i>
 
 1022
-01:10:40,990 --> 01:10:44,391
+01:10:40,690 --> 01:10:44,391
 <i>e foi cronometrado para coincidir
 com o tiro dado em Red Lightning</i>
 
@@ -4974,11 +4974,11 @@ Assim, acho que só terei que
 abaixar a cabeça, admitir,
 
 1045
-01:12:04,669 --> 01:12:05,961
+01:12:04,669 --> 01:12:05,661
 e levar meu castigo.
 
 1046
-01:12:05,971 --> 01:12:11,249
+01:12:05,671 --> 01:12:11,249
 Sim. Isso seria terrível, Randy.
 Uma suspensão de 30 dias.
 
@@ -5011,20 +5011,20 @@ escolher os amigos dele.
 Preciso de outra bebida.
 
 1053
-01:12:29,962 --> 01:12:31,954
+01:12:29,662 --> 01:12:31,654
 Por que ele não está aqui?
 
 1054
-01:12:31,964 --> 01:12:35,958
+01:12:31,664 --> 01:12:35,658
 Tudo aconteceu na hora certa
 e ele virá dar as nossas partes.
 
 1055
-01:12:35,968 --> 01:12:38,961
+01:12:35,668 --> 01:12:38,661
 Então algo deu errado.
 
 1056
-01:12:38,971 --> 01:12:42,006
+01:12:38,671 --> 01:12:42,006
 Ele disse que
 estaria aqui às 7:00.
 
@@ -5068,12 +5068,12 @@ amigo.
 Dê uma olhada por aí.
 
 1065
-01:13:14,338 --> 01:13:18,932
+01:13:14,338 --> 01:13:18,632
 Não creio que a dica seja errada.
 Bem, se tivesse uma certa dama aqui...
 
 1066
-01:13:18,942 --> 01:13:22,077
+01:13:18,642 --> 01:13:22,077
 -Cadê o otário? Cadê o George?
 -Exatamente aqui!
 
@@ -5092,11 +5092,11 @@ jóquei, ele se atrasou 15 minutos.
 Sim. Quem é?
 
 1070
-01:14:07,989 --> 01:14:11,125
+01:14:07,689 --> 01:14:11,125
 Oh, me enganei. Sinto muito.
 
 1071
-01:14:35,917 --> 01:14:40,153
+01:14:35,617 --> 01:14:40,153
 Johnny chegou no local da reunião
 às 7:29, 15 minutos mais tarde.
 
@@ -5116,17 +5116,17 @@ o dinheiro seria guardado por
 quem o tivesse naquele momento
 
 1075
-01:14:57,158 --> 01:14:59,930
+01:14:57,158 --> 01:14:59,630
 sem qualquer consideração
 sobre o destino dos outros,
 
 1076
-01:14:59,940 --> 01:15:02,941
+01:14:59,640 --> 01:15:02,641
 e o dinheiro seria dividido em
 segurança numa data posterior.
 
 1077
-01:15:02,951 --> 01:15:06,637
+01:15:02,651 --> 01:15:06,637
 Depois do que viu, não sabendo
 o que aconteceu aos outros...
 
@@ -5136,7 +5136,7 @@ Johnny não teve outra escolha,
 senão, se salvar e ao dinheiro.
 
 1079
-01:15:17,957 --> 01:15:21,192
+01:15:17,657 --> 01:15:21,192
 Dez minutos depois, comprou a
 maior mala que poderia achar.
 
@@ -5167,7 +5167,7 @@ Fiz o que, querido?
 Não sei do que está falando.
 
 1086
-01:16:54,210 --> 01:16:58,945
+01:16:54,210 --> 01:16:58,645
 Estava pegando algumas
 roupas para lavar.
 
@@ -5209,7 +5209,7 @@ A porta está atrás de você.
 Pegue um táxi.
 
 1095
-01:17:31,987 --> 01:17:34,621
+01:17:31,687 --> 01:17:34,621
 Eu te amo, Sherry.
 
 1096
@@ -5235,7 +5235,7 @@ Não é um marido de verdade.
 Nem mesmo um homem.
 
 1101
-01:17:55,911 --> 01:18:00,646
+01:17:55,611 --> 01:18:00,646
 Só uma piada ruim sem final.
 
 1102
@@ -5243,7 +5243,7 @@ Só uma piada ruim sem final.
 Não é justo. Não é justo.
 
 1103
-01:18:24,939 --> 01:18:29,934
+01:18:24,639 --> 01:18:29,634
 <i>A American Airlines anuncia
 a chegada do voo 808...</i>
 
@@ -5389,17 +5389,17 @@ Parece muito grande para o
 compartimento de passageiros.
 
 1133
-01:20:27,458 --> 01:20:30,951
+01:20:27,458 --> 01:20:30,651
 São regulamentos de voo, projetados
 para seu conforto e segurança.
 
 1134
-01:20:30,961 --> 01:20:33,954
+01:20:30,661 --> 01:20:33,654
 -Não posso viajar sem isto.
 -Realmente não pode?
 
 1135
-01:20:33,964 --> 01:20:37,458
+01:20:33,664 --> 01:20:37,458
 -Absolutamente não.
 -Neste caso, acho que podemos
 
@@ -5424,7 +5424,7 @@ Espere um minuto.
 Não quero que me devolvam.
 
 1140
-01:20:47,977 --> 01:20:50,333
+01:20:47,677 --> 01:20:50,333
 Bem, senhor,
 não sei mais o que sugerir.
 

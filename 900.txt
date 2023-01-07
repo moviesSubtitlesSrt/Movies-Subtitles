@@ -1,9 +1,9 @@
 1
-00:00:27,888 --> 00:00:30,184
+00:00:27,488 --> 00:00:30,184
 LEVADA  DA  BRECA
 
 2
-00:01:26,563 --> 00:01:28,811
+00:01:26,563 --> 00:01:28,411
 Bom dia, Miss. Alice- Shh
 -Qual é o problema?
 
@@ -12,7 +12,7 @@ Bom dia, Miss. Alice- Shh
 O Dr. Huxley está pensando !
 
 4
-00:01:44,700 --> 00:01:46,849
+00:01:44,700 --> 00:01:46,449
 Acho que este tem de pertencer
 a cauda.
 
@@ -22,12 +22,12 @@ Asneira. Tentou-o ontem
 na cauda e não encaixou.
 
 6
-00:01:49,884 --> 00:01:51,488
+00:01:49,484 --> 00:01:51,488
 Ah, é verdade, eu tentei,
 não foi?.
 
 7
-00:01:52,098 --> 00:01:55,884
+00:01:52,098 --> 00:01:55,484
 Um telegrama para você de Utah,
 da expedição!
 
@@ -37,7 +37,7 @@ Da expedição?
 Abre-o, eu desco já!
 
 9
-00:02:02,895 --> 00:02:04,697
+00:02:02,495 --> 00:02:04,697
 David, encontraram!
 Encontraram David.
 
@@ -59,7 +59,7 @@ Imagine professor, o ultimo osso
 que precisavamos para
 
 14
-00:02:14,227 --> 00:02:15,895
+00:02:14,227 --> 00:02:15,495
 completar o brontossauro:
 
 15
@@ -68,11 +68,11 @@ O ultimo osso, a calvicula intercostal,
 chega amanhã...
 
 16
-00:02:18,265 --> 00:02:19,859
+00:02:18,265 --> 00:02:19,459
 -Depois de 4 anos de trabalho !
 
 17
-00:02:19,891 --> 00:02:20,553
+00:02:19,491 --> 00:02:20,553
 - Parabéns, meu rapaz !
 
 18
@@ -86,7 +86,7 @@ David, por favor, ha um tempo e
 lugar para tudo.
 
 20
-00:02:26,891 --> 00:02:28,172
+00:02:26,491 --> 00:02:28,172
 O que vai pensar o professor ?
 
 21
@@ -99,7 +99,7 @@ vão casar amanhã.
 Sim eu sei.
 
 23
-00:02:31,313 --> 00:02:33,891
+00:02:31,313 --> 00:02:33,491
 Ohhh, é verdade. Nos
 casamos amanhã....
 
@@ -127,7 +127,7 @@ Vamos partir, assim que
 termine a cerimonia.
 
 29
-00:02:42,859 --> 00:02:44,564
+00:02:42,459 --> 00:02:44,564
 Partir ? Como pode pensar isso,
 
 30
@@ -135,16 +135,16 @@ Partir ? Como pode pensar isso,
 depois de ver este telegrama !
 
 31
-00:02:47,057 --> 00:02:48,865
+00:02:47,057 --> 00:02:48,465
 Assim que casarmos, voltamos
 
 32
-00:02:48,866 --> 00:02:51,278
+00:02:48,466 --> 00:02:51,278
 diretamente para aqui e continuará
 com o seu trabalho.
 
 33
-00:02:51,897 --> 00:02:53,360
+00:02:51,497 --> 00:02:53,360
 Agora mais do que nunca, nada
 
 34
@@ -169,7 +169,7 @@ Eu disse nenhum!
 Alice... eu pensava...
 
 39
-00:03:04,894 --> 00:03:07,884
+00:03:04,494 --> 00:03:07,484
 - Nem filhos... nem nada ?
 - Exatamente !
 
@@ -186,11 +186,11 @@ Eu vejo o nosso casamento como
 uma pura dedicação  ao seu trabalho.
 
 43
-00:03:15,652 --> 00:03:16,822
+00:03:15,652 --> 00:03:16,422
 Bolas Alice... Todo mundo
 
 44
-00:03:16,823 --> 00:03:18,879
+00:03:16,423 --> 00:03:18,479
 deve ter direito a uma lua de mel...
 
 45
@@ -214,7 +214,7 @@ Ah sim? Para que?
 Jogar golfe com Mr. Peabody.
 
 50
-00:03:27,830 --> 00:03:28,869
+00:03:27,430 --> 00:03:28,469
 Peabody? Qual Peabody?
 
 51
@@ -222,7 +222,7 @@ Peabody? Qual Peabody?
 Alexandre Peabody, que representa
 
 52
-00:03:30,701 --> 00:03:31,878
+00:03:30,701 --> 00:03:31,478
 Ms. Carleton-Random
 
 53
@@ -243,7 +243,7 @@ Ah sim claro, esse Sr. Peabody!
 Um milhão de dólares !
 
 57
-00:03:39,100 --> 00:03:40,836
+00:03:39,100 --> 00:03:40,436
 E muito gentil esse Sr. Peabody! Não é?
 
 58
@@ -263,7 +263,7 @@ depender da impressão  que causar nele.
 Ah claro, não se preocupe, depois
 
 62
-00:03:47,586 --> 00:03:48,874
+00:03:47,586 --> 00:03:48,474
 de receber este telegrama...
 
 63
@@ -284,7 +284,7 @@ Lembra de quem é e de onde vem.
 Vai andando. Não o deve fazer esperar.
 
 67
-00:03:56,793 --> 00:03:59,872
+00:03:56,793 --> 00:03:59,472
 Bem então adeus Alice, quero dizer...
 professor.
 
@@ -328,11 +328,11 @@ Se me pudesse dar
 garantias, de que vocês...
 
 77
-00:04:19,597 --> 00:04:20,866
+00:04:19,597 --> 00:04:20,466
 pensavam em nós primeiro,
 
 78
-00:04:20,867 --> 00:04:23,417
+00:04:20,467 --> 00:04:23,417
 antes de doarem aquele milhão a outros?
 
 79
@@ -369,7 +369,7 @@ Dr. Huxley, quando jogo golfe
 só falo de golfe.
 
 87
-00:04:46,551 --> 00:04:48,851
+00:04:46,551 --> 00:04:48,451
 Ainda por cima estamos entre jogadas.
 
 88
@@ -385,7 +385,7 @@ com um whisky e soda,
 quando acabarmos o jogo?
 
 91
-00:04:53,820 --> 00:04:55,148
+00:04:53,420 --> 00:04:55,148
 Claro que podemos.
 
 92
@@ -415,7 +415,7 @@ Ei, aquela é a minha bola...
 Espere um minuto...
 
 98
-00:05:17,086 --> 00:05:18,857
+00:05:17,086 --> 00:05:18,457
 Espere um pouco.
 Desculpe.
 
@@ -439,7 +439,7 @@ Bem, mas eu o perdôo,
 porque fiz uma boa jogada.
 
 103
-00:05:27,553 --> 00:05:28,853
+00:05:27,553 --> 00:05:28,453
 Mas você  não compreende...
 
 104
@@ -472,7 +472,7 @@ este é o oitavo buraco?
 Ja vou até aí.
 
 111
-00:05:42,519 --> 00:05:44,876
+00:05:42,519 --> 00:05:44,476
 Com que tipo de bola está jogando?
 -PGA.
 
@@ -482,12 +482,12 @@ Com que tipo de bola está jogando?
 - Eu prefiro as P.G.A.
 
 113
-00:05:47,507 --> 00:05:50,803
+00:05:47,507 --> 00:05:50,403
 Eu so estou tentando provar que
 está jogando com a minha bola.
 
 114
-00:05:50,804 --> 00:05:52,138
+00:05:50,404 --> 00:05:52,138
 A PGA tem duas bolas pretas e
 
 115
@@ -495,7 +495,7 @@ A PGA tem duas bolas pretas e
 as Crownflight tem um circulo...
 
 116
-00:05:53,825 --> 00:05:55,585
+00:05:53,425 --> 00:05:55,585
 Eu não sou muito meticulosa,
 com estas coisas.
 
@@ -519,7 +519,7 @@ Nao, eu falo da marca na bola.
 E a minha bola.
 
 121
-00:06:12,831 --> 00:06:15,101
+00:06:12,431 --> 00:06:15,101
 Bem o que interessa isso?
 É so um jogo...
 
@@ -532,7 +532,7 @@ Minha senhora, parece não se entender
 que me colocou numa
 
 124
-00:06:18,334 --> 00:06:19,889
+00:06:18,334 --> 00:06:19,489
 situação  muito embaraçosa.
 
 125
@@ -540,12 +540,12 @@ situação  muito embaraçosa.
 A sério? Lamento...
 
 126
-00:06:20,509 --> 00:06:22,848
+00:06:20,509 --> 00:06:22,448
 O mais importante
 advogado de Nova Iorque esta
 
 127
-00:06:22,849 --> 00:06:24,449
+00:06:22,449 --> 00:06:24,449
 a minha espera no primeiro percurso.
 
 128
@@ -572,12 +572,12 @@ Huxley, Huxley...
 Então...
 
 133
-00:06:39,505 --> 00:06:41,829
+00:06:39,505 --> 00:06:41,429
 Ah sim, só demoro um minuto...
 Sr. Peabody.
 
 134
-00:06:50,823 --> 00:06:52,573
+00:06:50,423 --> 00:06:52,573
 Ei Sr...
 Aquele não é o seu carro?
 
@@ -638,7 +638,7 @@ eu ja pudesse sair.
 Estou com muita pressa.
 
 148
-00:07:35,813 --> 00:07:38,082
+00:07:35,413 --> 00:07:38,082
 Ah, quer que eu tire o seu carro?
 Não se importa?
 
@@ -679,7 +679,7 @@ Eu tenho.
 Diga quando...
 
 158
-00:07:54,707 --> 00:07:57,832
+00:07:54,707 --> 00:07:57,432
 Posso agora?
 Sim,  pode.
 
@@ -692,7 +692,7 @@ Olhe o que fez!
 Não faz mal, eu tenho seguro.
 
 161
-00:08:04,486 --> 00:08:06,835
+00:08:04,486 --> 00:08:06,435
 Eu não quero saber se tem
 seguro ou não!
 
@@ -833,7 +833,7 @@ Olhe com muita atenção.
 Pego numa azeitona.
 
 194
-00:09:40,544 --> 00:09:41,814
+00:09:40,544 --> 00:09:41,414
 Atiro-a para aquele copo.
 
 195
@@ -845,7 +845,7 @@ Mas aqui está ela.
 Não espere... Não, não, continue.
 
 197
-00:09:48,598 --> 00:09:50,812
+00:09:48,598 --> 00:09:50,412
 Já sei o que aconteceu.
 É engraçado...
 
@@ -854,7 +854,7 @@ Já sei o que aconteceu.
 Pegou em três azeitonas, não foi?
 
 199
-00:09:53,881 --> 00:09:55,132
+00:09:53,481 --> 00:09:55,132
 Atirou-as para o copo...
 
 200
@@ -879,7 +879,7 @@ Tenho tanta pena.
 Não podia pedir mais desculpas.
 
 205
-00:10:12,857 --> 00:10:14,575
+00:10:12,457 --> 00:10:14,575
 Devia saber que estava aqui!
 
 206
@@ -891,7 +891,7 @@ Tive um pressentimento
 Assim que cai no chão.
 
 208
-00:10:17,585 --> 00:10:18,846
+00:10:17,585 --> 00:10:18,446
 Nao. Em cima do seu chapéu.
 
 209
@@ -941,7 +941,7 @@ Se vai ficar zangado comigo,
 que posso eu fazer?
 
 220
-00:10:42,491 --> 00:10:43,840
+00:10:42,491 --> 00:10:43,440
 Desaparecer.
 
 221
@@ -953,33 +953,33 @@ Eu cheguei primeiro.
 Então desapareço eu.
 
 223
-00:11:09,805 --> 00:11:11,874
+00:11:09,405 --> 00:11:11,474
 Não prefere pegar
 no prato das azeitonas?
 
 224
-00:11:12,123 --> 00:11:14,873
+00:11:12,123 --> 00:11:14,473
 Não, não.
 Eu sento aqui, não se importa, não é?
 
 225
-00:11:14,874 --> 00:11:15,874
+00:11:14,474 --> 00:11:15,474
 De maneira alguma.
 
 226
-00:11:15,875 --> 00:11:16,875
+00:11:15,475 --> 00:11:16,475
 Isto é um pouco dificil.
 
 227
-00:11:16,876 --> 00:11:17,875
+00:11:16,476 --> 00:11:17,475
 entendo...
 
 228
-00:11:18,363 --> 00:11:19,825
+00:11:18,363 --> 00:11:19,425
 A sua cara me parece familiar...
 
 229
-00:11:19,826 --> 00:11:20,522
+00:11:19,426 --> 00:11:20,522
 Não já nos conhecemos?
 
 230
@@ -1000,7 +1000,7 @@ Ah, pode sentar-se.
 Eu não me importo.
 
 234
-00:11:28,840 --> 00:11:30,469
+00:11:28,440 --> 00:11:30,469
 -Talves tenha assistido
 as minhas conferências ?
 
@@ -1013,7 +1013,7 @@ as minhas conferências ?
 Normalmente falo de doenças nervosas.
 
 237
-00:11:34,573 --> 00:11:35,899
+00:11:34,573 --> 00:11:35,499
 Sou um psiquiatra.
 
 238
@@ -1058,7 +1058,7 @@ só discute?
 E esse homem o seu namorado?
 
 248
-00:11:59,153 --> 00:12:01,823
+00:11:59,153 --> 00:12:01,423
 Oh não, eu não o conheço.
 Só o encontrei hoje.
 
@@ -1083,7 +1083,7 @@ de forma complexa.
 O instinto amoroso!
 
 254
-00:12:11,550 --> 00:12:13,819
+00:12:11,550 --> 00:12:13,419
 Mesmo sem conhecer o caso,
 
 255
@@ -1116,7 +1116,7 @@ Muitas vezes se revela de forma complexa.
 E isso.
 
 262
-00:12:27,587 --> 00:12:30,896
+00:12:27,587 --> 00:12:30,496
 Muito obrigada.
 O senhor é maravilhoso.
 
@@ -1165,7 +1165,7 @@ Sim, estou!
 O impulso amoroso no homem, frequentemente
 
 273
-00:12:51,322 --> 00:12:52,811
+00:12:51,322 --> 00:12:52,411
 se revela em termos de conflito...
 
 274
@@ -1204,15 +1204,15 @@ Eu volto já.
 Falhou...
 
 282
-00:13:15,608 --> 00:13:16,856
+00:13:15,608 --> 00:13:16,456
 Desculpa a demora.
 
 283
-00:13:16,881 --> 00:13:17,845
+00:13:16,481 --> 00:13:17,445
 Não faz mal minha querida.
 
 284
-00:13:17,846 --> 00:13:19,514
+00:13:17,446 --> 00:13:19,514
 Eu tive uma conversa muito interessante
 
 285
@@ -1245,11 +1245,11 @@ A minha fivela  de diamantes
 estava nela!
 
 292
-00:13:31,817 --> 00:13:33,417
+00:13:31,417 --> 00:13:33,417
 Oh ! Vamos procurar.
 
 293
-00:13:40,895 --> 00:13:43,505
+00:13:40,495 --> 00:13:43,505
 Você perdeu mas vamos encontrar.
 Não se preocupe.
 
@@ -1285,7 +1285,7 @@ Faça alguma coisa...
 Foi um engano.
 
 301
-00:13:58,834 --> 00:14:01,819
+00:13:58,434 --> 00:14:01,419
 Não a vi.
 Muito obrigado.
 
@@ -1392,12 +1392,12 @@ enquanto lhe explico...
 Oh, rasgou o seu casaco...
 
 326
-00:15:04,397 --> 00:15:06,883
+00:15:04,397 --> 00:15:06,483
 Eu não fiz de proposito...
 Não está certo...
 
 327
-00:15:06,884 --> 00:15:08,121
+00:15:06,484 --> 00:15:08,121
 Quer dizer, não foi culpa minha...
 
 328
@@ -1413,7 +1413,7 @@ mas sem intenção...
 Faz-me uma coisa?
 
 331
-00:15:14,109 --> 00:15:14,859
+00:15:14,109 --> 00:15:14,459
 Uma agulha?
 
 332
@@ -1455,11 +1455,11 @@ Obrigado.
 Só um momento...
 
 341
-00:15:35,744 --> 00:15:36,875
+00:15:35,744 --> 00:15:36,475
 Não pode insultar e vir
 
 342
-00:15:36,876 --> 00:15:37,515
+00:15:36,476 --> 00:15:37,515
 atrás de mim.
 
 343
@@ -1467,11 +1467,11 @@ atrás de mim.
 Quando me zango, zango-me mesmo...
 
 344
-00:15:39,777 --> 00:15:40,861
+00:15:39,777 --> 00:15:40,461
 Aconteceu algo horrivel.
 
 345
-00:15:40,886 --> 00:15:41,659
+00:15:40,486 --> 00:15:41,659
 Não precisa de me dizer.
 
 346
@@ -1493,15 +1493,15 @@ Por favor pare de falar, para eu...
 Importa-se de me deixar passar...
 
 350
-00:15:50,541 --> 00:15:52,810
+00:15:50,541 --> 00:15:52,410
 Só estou tentando dizer-lhe que...
 
 351
-00:15:53,020 --> 00:15:54,807
+00:15:53,020 --> 00:15:54,407
 Oh não, se não estivesse com tanta pressa
 
 352
-00:15:54,809 --> 00:15:56,769
+00:15:54,409 --> 00:15:56,769
 que não pode ouvir as minhas explicacões...
 
 353
@@ -1565,11 +1565,11 @@ Espero que se tenha percebido
 que deu um triste espectáculo.
 
 367
-00:16:30,299 --> 00:16:31,883
+00:16:30,299 --> 00:16:31,483
 Já terminou?
 
 368
-00:16:31,883 --> 00:16:32,884
+00:16:31,483 --> 00:16:32,484
 Oh, sim, sim...
 
 369
@@ -1622,7 +1622,7 @@ encontrar este homem
 e explicar-lhe o que aconteceu.
 
 380
-00:17:11,843 --> 00:17:14,032
+00:17:11,443 --> 00:17:14,032
 Se bem que, mesmo que o veja,
 não saberia o que dizer.
 
@@ -1677,7 +1677,7 @@ sem mexer o meu dedo mindinho.
 Vamos, vista o paletó e vamos para o Ritz !
 
 393
-00:17:35,598 --> 00:17:36,876
+00:17:35,598 --> 00:17:36,476
 o pegamos antes que ele acabe o jantar.
 
 394
@@ -1714,19 +1714,19 @@ encontrar-me com a Miss Swallow.
 Miss Swallow ?
 
 402
-00:17:50,872 --> 00:17:52,463
+00:17:50,472 --> 00:17:52,463
 Sim, é a minha noiva.
 
 403
-00:17:53,633 --> 00:17:55,822
+00:17:53,633 --> 00:17:55,422
 Noivo. Quer dizer que vão casar?
 
 404
-00:17:55,823 --> 00:17:56,823
+00:17:55,423 --> 00:17:56,423
 Isso mesmo.
 
 405
-00:17:56,824 --> 00:17:57,824
+00:17:56,424 --> 00:17:57,424
 Que bom...
 
 406
@@ -1751,7 +1751,7 @@ importava nada de esperar,
 o tempo que fosse preciso.
 
 411
-00:18:04,061 --> 00:18:05,801
+00:18:04,061 --> 00:18:05,401
 Sim, mas não seria correto deixá-la...
 
 412
@@ -1824,7 +1824,7 @@ David, se não para com isso, eu não lhe
 arranjo encontro com o Boopy.
 
 429
-00:18:47,820 --> 00:18:49,017
+00:18:47,420 --> 00:18:49,017
 Não sei porque tenha a sensação
 
 430
@@ -1849,11 +1849,11 @@ no meio da noite é
 capaz de ficar indisposto.
 
 435
-00:18:55,259 --> 00:18:56,805
+00:18:55,259 --> 00:18:56,405
 Bem eu não acho que esteja dormindo,
 
 436
-00:18:56,806 --> 00:18:58,009
+00:18:56,406 --> 00:18:58,009
 mas eu sei onde ele dorme.
 
 437
@@ -1861,7 +1861,7 @@ mas eu sei onde ele dorme.
 Não podemos entrar pela
 
 438
-00:19:00,521 --> 00:19:01,887
+00:19:00,521 --> 00:19:01,487
 janela do quarto do homem...
 
 439
@@ -1921,11 +1921,11 @@ suficientemente grandes.
 O quê...
 
 452
-00:19:40,847 --> 00:19:43,847
+00:19:40,447 --> 00:19:43,447
 Jesus vamos fugir daqui...
 
 453
-00:19:48,846 --> 00:19:51,166
+00:19:48,446 --> 00:19:51,166
 Não se preocupe, tudo vai se arranjar.
 
 454
@@ -1957,7 +1957,7 @@ Só um momento.. Mas há limites
 para aquilo que um homem pode suportar...
 
 461
-00:20:02,804 --> 00:20:05,666
+00:20:02,404 --> 00:20:05,666
 E alem disso, amanhã a tarde
 eu vou me casar.
 
@@ -1966,7 +1966,7 @@ eu vou me casar.
 Porque?
 
 463
-00:20:10,802 --> 00:20:11,512
+00:20:10,402 --> 00:20:11,512
 Porque...
 
 464
@@ -1986,7 +1986,7 @@ Ora a minha futura mulher sempre me viu
 como um homem de uma certa dignidade.
 
 468
-00:20:22,879 --> 00:20:24,072
+00:20:22,479 --> 00:20:24,072
 Em particular também lhe digo que estou
 
 469
@@ -2006,7 +2006,7 @@ porque...
 Apesar de tudo, em momentos mais calmos,
 
 473
-00:20:30,026 --> 00:20:31,817
+00:20:30,026 --> 00:20:31,417
 eu sou estranhamente atraido para você.
 
 474
@@ -2019,7 +2019,7 @@ momento calmo...
 A nossa relação  tem sido uma série de
 
 476
-00:20:36,651 --> 00:20:38,825
+00:20:36,651 --> 00:20:38,425
 desventuras do princípio ao fim...
 
 477
@@ -2108,7 +2108,7 @@ Antes de casarmos esta tarde, há uma
 coisa que tem de ficar bem clara.
 
 497
-00:21:47,460 --> 00:21:49,893
+00:21:47,460 --> 00:21:49,493
 Não quero nenhuma mulher a interferir
 nos meus assuntos
 
@@ -2146,11 +2146,11 @@ Alice ! Chegou! É a clavicula
 intercostal !
 
 506
-00:22:04,297 --> 00:22:05,816
+00:22:04,297 --> 00:22:05,416
 Não é maravilhoso?
 
 507
-00:22:06,096 --> 00:22:07,836
+00:22:06,096 --> 00:22:07,436
 Não é um presente de casamento
 maravilhoso?
 
@@ -2179,7 +2179,7 @@ Vai andando para o museu.
 E eu já vou para lá. Adeus.
 
 514
-00:22:35,889 --> 00:22:37,319
+00:22:35,489 --> 00:22:37,319
 Ah ! É você .
 
 515
@@ -2193,7 +2193,7 @@ Eu disse bom dia David.
 Você quer um leopardo?
 
 517
-00:22:43,847 --> 00:22:44,596
+00:22:43,447 --> 00:22:44,596
 Um leopardo? Ora, para
 
 518
@@ -2241,7 +2241,7 @@ em Nova Iorque.
 Ainda bem que o conheci ontem
 
 528
-00:23:11,284 --> 00:23:13,830
+00:23:11,284 --> 00:23:13,430
 porque você  é o unico zoólogo que conheço.
 
 529
@@ -2264,11 +2264,11 @@ e fique lá
 Está ficando insuportável...
 
 533
-00:23:25,569 --> 00:23:26,818
+00:23:25,569 --> 00:23:26,418
 Nao, não é você  David...
 
 534
-00:23:26,819 --> 00:23:28,387
+00:23:26,419 --> 00:23:28,387
 David, eu quero que venha depressa.
 
 535
@@ -2281,7 +2281,7 @@ Eu tenho um leopardo e
 não sei o que fazer com ele.
 
 537
-00:23:34,835 --> 00:23:36,407
+00:23:34,435 --> 00:23:36,407
 Susan, lamento dizer-lhe mas
 
 538
@@ -2289,7 +2289,7 @@ Susan, lamento dizer-lhe mas
 o leopardo é um problema seu.
 
 539
-00:23:38,355 --> 00:23:39,875
+00:23:38,355 --> 00:23:39,475
 Quer dizer que se recusa a
 me ajudar?
 
@@ -2306,7 +2306,7 @@ Não me pode deixar sozinha com um leopardo.
 Agora eu vou buscá-lo...
 
 543
-00:23:47,017 --> 00:23:48,803
+00:23:47,017 --> 00:23:48,403
 Susan...
 O que aconteceu?
 
@@ -2333,7 +2333,7 @@ Coragem Susan, eu já
 estou indo...
 
 549
-00:24:14,400 --> 00:24:17,808
+00:24:14,400 --> 00:24:17,408
 Susan, consegue me ouvir?
 Já estou indo...
 
@@ -2357,7 +2357,7 @@ Qual historia ridicula..
 Eu tenho um leopardo.
 
 554
-00:24:49,459 --> 00:24:50,888
+00:24:49,459 --> 00:24:50,488
 - Então onde está ele?
 - Ali dentro.
 
@@ -2367,7 +2367,7 @@ Eu tenho um leopardo.
 - Mas tem de acreditar...
 
 556
-00:24:53,818 --> 00:24:55,448
+00:24:53,418 --> 00:24:55,448
 Voce tem uma imaginação  fértil...
 
 557
@@ -2449,7 +2449,7 @@ Não é nada, ouça...
 Isto deve ser a coisa mais
 
 575
-00:25:37,381 --> 00:25:38,837
+00:25:37,381 --> 00:25:38,437
 estúpida que alguma vez me aconteceu.
 
 576
@@ -2461,7 +2461,7 @@ Eu sei que é absurdo, mas ele realmente
 adora a música.
 
 578
-00:25:41,804 --> 00:25:42,874
+00:25:41,404 --> 00:25:42,474
 Que diferença faz isso...
 
 579
@@ -2502,7 +2502,7 @@ Susan? Se colocar o toca discos
 no banheiro, acha que ele volta?
 
 587
-00:26:06,712 --> 00:26:10,845
+00:26:06,712 --> 00:26:10,445
 -Oh sim, mas a música soa melhor aqui.
 Alem disso ele gosta...
 
@@ -2521,7 +2521,7 @@ Susan, eu não gosto de
 leopardos.
 
 591
-00:26:21,557 --> 00:26:22,827
+00:26:21,557 --> 00:26:22,427
 Pensa nele como se
 fosse um gato.
 
@@ -2530,7 +2530,7 @@ fosse um gato.
 Eu tambem não gosto de gatos.
 
 593
-00:26:24,637 --> 00:26:25,857
+00:26:24,637 --> 00:26:25,457
 Fique quieto e não
 fique nervoso.
 
@@ -2558,7 +2558,7 @@ Não acho que seja a música David.
 Acho que é você .
 
 599
-00:26:36,875 --> 00:26:38,624
+00:26:36,475 --> 00:26:38,624
 David, acho que encontrou
 um amigo a sério.
 
@@ -2593,11 +2593,11 @@ Para a nossa fazenda
 em Westlake, Connecticut.
 
 607
-00:26:49,036 --> 00:26:50,808
+00:26:49,036 --> 00:26:50,408
 Eu não vou para Westlake, Connecticut!
 
 608
-00:26:50,833 --> 00:26:51,446
+00:26:50,433 --> 00:26:51,446
 Mas, David...
 
 609
@@ -2629,15 +2629,15 @@ Será o fim do meu milhão de dólares.
 Se lhe tivessem prometido um milhão
 
 616
-00:27:00,563 --> 00:27:01,819
+00:27:00,563 --> 00:27:01,419
 de dólares se gostassem de você
 
 617
-00:27:01,820 --> 00:27:02,885
+00:27:01,420 --> 00:27:02,485
 e não gostassem porque encontravam
 
 618
-00:27:02,886 --> 00:27:04,218
+00:27:02,486 --> 00:27:04,218
 um leopardo no seu apartamento
 
 619
@@ -2666,11 +2666,11 @@ e me casar as 3 horas.
 Va embora, derrotado!
 
 625
-00:27:14,306 --> 00:27:15,893
+00:27:14,306 --> 00:27:15,493
 Não vale a pena chamar nomes Susan,
 
 626
-00:27:15,894 --> 00:27:17,845
+00:27:15,494 --> 00:27:17,445
 porque eu não vou discutir mais com você.
 
 627
@@ -2706,15 +2706,15 @@ Susan, ja dissemos o que tínhamos
 a dizer sobre isso.
 
 634
-00:28:08,013 --> 00:28:09,803
+00:28:08,013 --> 00:28:09,403
 E o meu leopardo?
 
 635
-00:28:10,773 --> 00:28:11,833
+00:28:10,773 --> 00:28:11,433
 E problema seu!
 
 636
-00:28:12,053 --> 00:28:13,882
+00:28:12,053 --> 00:28:13,482
 Não é so meu problema...
 
 637
@@ -2747,12 +2747,12 @@ eu estou com o leopardo!
 Eu só estava passeando de carro.
 
 644
-00:28:37,447 --> 00:28:38,801
+00:28:37,447 --> 00:28:38,401
 Você estava parado no
 passeio, gritando e
 
 645
-00:28:38,802 --> 00:28:39,826
+00:28:38,402 --> 00:28:39,426
 com uma cara muito de idiota.
 
 646
@@ -2780,7 +2780,7 @@ Tenho a sensação  de que algo
 horrível vai acontecer.
 
 652
-00:28:52,883 --> 00:28:55,313
+00:28:52,483 --> 00:28:55,313
 Oh não David.
 Vai correr tudo bem.
 
@@ -2794,7 +2794,7 @@ Qual é o problema?
 Se sente sozinho?
 
 655
-00:29:03,041 --> 00:29:05,831
+00:29:03,041 --> 00:29:05,431
 Se conhece algum atalho
 por favor utilize.
 
@@ -2850,7 +2850,7 @@ de modéstia.
 Eu ja nem consigo discutir nada consigo
 
 668
-00:29:30,566 --> 00:29:32,860
+00:29:30,566 --> 00:29:32,460
 com o Baby a respirar no meu pescoco.
 
 669
@@ -2872,7 +2872,7 @@ Nunca puxe o rabo de
 um leopardo!
 
 673
-00:29:58,899 --> 00:30:00,196
+00:29:58,499 --> 00:30:00,196
 Cante para ele...
 
 674
@@ -2892,7 +2892,7 @@ Eu nunca bati em nada
 que estava no lugar certo.
 
 678
-00:30:17,224 --> 00:30:18,815
+00:30:17,224 --> 00:30:18,415
 Aquela pic up estava
 na beira da estrada.
 
@@ -2906,15 +2906,15 @@ e por isso é que bati.
 Que horas são?
 
 681
-00:30:22,823 --> 00:30:24,413
+00:30:22,423 --> 00:30:24,413
 Ja estamos chegando.
 
 682
-00:30:24,623 --> 00:30:25,851
+00:30:24,623 --> 00:30:25,451
 Só temos de parar em Westlake
 
 683
-00:30:25,852 --> 00:30:27,292
+00:30:25,452 --> 00:30:27,292
 para arranjar carne para o Baby.
 
 684
@@ -2923,7 +2923,7 @@ Ele ja se alimentou
 de patos e galinhas.
 
 685
-00:30:32,181 --> 00:30:33,844
+00:30:32,181 --> 00:30:33,444
 Sem contar com um par de cisnes.
 
 686
@@ -2956,7 +2956,7 @@ Susan, quando um homem está lutando
 com um leopardo
 
 693
-00:30:47,177 --> 00:30:49,887
+00:30:47,177 --> 00:30:49,487
 no meio de um lago
 não está em condições de correr...
 
@@ -2995,16 +2995,16 @@ Por favor se apresse, se ele
 acordar vamos ter sérios problemas.
 
 702
-00:31:17,537 --> 00:31:18,891
+00:31:17,537 --> 00:31:18,491
 Suponho que não lhe
 faça diferença para você
 
 703
-00:31:18,892 --> 00:31:21,674
+00:31:18,492 --> 00:31:21,674
 estar estacionada em frente ao hidrante.
 
 704
-00:31:21,798 --> 00:31:23,853
+00:31:21,798 --> 00:31:23,453
 Eu sei, não se preocupe com isso.
 
 705
@@ -3038,7 +3038,7 @@ Como quer que eu corte?
 Só num pedaço.
 
 712
-00:31:43,818 --> 00:31:45,261
+00:31:43,418 --> 00:31:45,261
 Vai assar ou cozer?
 
 713
@@ -3080,7 +3080,7 @@ Eu? Porque?
 Eu sou policial.
 
 722
-00:32:15,772 --> 00:32:16,881
+00:32:15,772 --> 00:32:16,481
 A sério?
 
 723
@@ -3092,7 +3092,7 @@ Como vai, eu sou Susan Vance.
 Como vai... Ouça, eu não quero
 
 725
-00:32:21,108 --> 00:32:21,874
+00:32:21,108 --> 00:32:21,474
 saber quem você é.
 
 726
@@ -3100,7 +3100,7 @@ saber quem você é.
 Só quero que saiba que não
 
 727
-00:32:23,454 --> 00:32:24,872
+00:32:23,454 --> 00:32:24,472
 pode estacionar aqui.
 
 728
@@ -3113,7 +3113,7 @@ Suponho que tem bilhetes grátis
 para o circo?
 
 730
-00:32:29,888 --> 00:32:31,278
+00:32:29,488 --> 00:32:31,278
 As vezes tenho...
 
 731
@@ -3154,11 +3154,11 @@ saber que está presa.
 Eu bem... mas porque?
 
 740
-00:32:51,629 --> 00:32:53,836
+00:32:51,629 --> 00:32:53,436
 Por estacionar em frente ao hidrante
 
 741
-00:32:53,545 --> 00:32:56,875
+00:32:53,545 --> 00:32:56,475
 Oh, mas eu não estacionei
 em frente ao hidrante.
 
@@ -3167,7 +3167,7 @@ em frente ao hidrante.
 Não? Então o que chama a isto ?
 
 743
-00:33:00,241 --> 00:33:02,894
+00:33:00,241 --> 00:33:02,494
 Ah, você  pensa que este
 carro é meu?
 
@@ -3245,7 +3245,7 @@ Hey, devolva esse carro !
 E agora, está tudo bem.
 
 761
-00:34:21,823 --> 00:34:23,580
+00:34:21,423 --> 00:34:23,580
 Não está nada bem. Talvez para você
 
 762
@@ -3263,11 +3263,11 @@ resolvemos um problema
  você já  está se preocupando com outro.
 
 765
-00:34:30,301 --> 00:34:31,893
+00:34:30,301 --> 00:34:31,493
 E bem me posso preocupar, porque
 
 766
-00:34:31,894 --> 00:34:34,131
+00:34:31,494 --> 00:34:34,131
 alem de tudo ainda roubamos um carro. Olhe.
 
 767
@@ -3304,7 +3304,7 @@ Vou pedir ao jardineiro que
 o devolva quando anoitecer.
 
 774
-00:34:48,819 --> 00:34:50,093
+00:34:48,419 --> 00:34:50,093
 Pare com isso !
 
 775
@@ -3325,7 +3325,7 @@ Obrigado.
 David o que eu sugiro é que....
 
 779
-00:34:55,542 --> 00:34:57,847
+00:34:55,542 --> 00:34:57,447
 Não quero mais sugestões
 suas.
 
@@ -3355,7 +3355,7 @@ respeitavel casará com
 você, com esse aspecto?
 
 786
-00:35:09,661 --> 00:35:11,887
+00:35:09,661 --> 00:35:11,487
 -Onde está o telefone?
 -Ali David, mas olhe para você...
 
@@ -3384,7 +3384,7 @@ com um pêndulo na frente
 dos meus olhos.
 
 792
-00:35:22,893 --> 00:35:25,159
+00:35:22,493 --> 00:35:25,159
 Eu compreendo...
 Mas o que eu sugeria...
 
@@ -3428,7 +3428,7 @@ Mas vai demorar muito mais.
 Nos não temos pressa.
 
 802
-00:36:17,897 --> 00:36:19,246
+00:36:17,497 --> 00:36:19,246
 Se apresse, David!
 
 803
@@ -3441,7 +3441,7 @@ David?
 O que há na caixa?
 
 805
-00:36:26,406 --> 00:36:27,806
+00:36:26,406 --> 00:36:27,406
 -O que disse?
 -Na caixa.
 
@@ -3455,7 +3455,7 @@ de um brontossauro.
 Sério?
 
 808
-00:36:33,513 --> 00:36:35,804
+00:36:33,513 --> 00:36:35,404
 Oh é só um osso velho!
 
 809
@@ -3491,7 +3491,7 @@ O jardineiro as levou para
 a cidade.
 
 816
-00:36:50,895 --> 00:36:52,345
+00:36:50,495 --> 00:36:52,345
 pare ele, eu não posso esperar,
 
 817
@@ -3512,7 +3512,7 @@ Onde vai?
 Vou tomar uma ducha.
 
 821
-00:36:59,827 --> 00:37:02,322
+00:36:59,427 --> 00:37:02,322
 Susan, não me deixe aqui
 assim...
 
@@ -3522,7 +3522,7 @@ Não seja impaciente, David.
 Tudo se vai resolver.
 
 823
-00:37:08,065 --> 00:37:11,815
+00:37:08,065 --> 00:37:11,415
 Tudo se vai resolver...
 Claro...Vai-se resolver...
 
@@ -3552,11 +3552,11 @@ podem acontecer a uma só pessoa?
 Susan, onde está você ?
 
 830
-00:37:26,101 --> 00:37:27,819
+00:37:26,101 --> 00:37:27,419
 Susan, vai sair dai e me ajudar com as
 
 831
-00:37:27,820 --> 00:37:29,509
+00:37:27,420 --> 00:37:29,509
 roupas, ou tenho de ir ai buscá-la?
 
 832
@@ -3568,7 +3568,7 @@ David, não seria capaz...
 Seria, sim!
 
 834
-00:37:32,839 --> 00:37:34,530
+00:37:32,439 --> 00:37:34,530
 Talvez eu não seria...
 
 835
@@ -3581,11 +3581,11 @@ do jardineiro?
 Porque?
 
 837
-00:37:38,011 --> 00:37:39,808
+00:37:38,011 --> 00:37:39,408
 Porque lá deve ter alguma roupa.
 
 838
-00:37:39,858 --> 00:37:41,248
+00:37:39,458 --> 00:37:41,248
 Não o ouço...
 
 839
@@ -3609,7 +3609,7 @@ Eu vou encontrar por mim mesmo.
 O jardineiro deve ter roupas.
 
 844
-00:37:50,548 --> 00:37:51,886
+00:37:50,548 --> 00:37:51,486
 Ele foi a cidade.
 
 845
@@ -3631,11 +3631,11 @@ cabeça no ar...
 Puxa vida, o homem ..
 
 849
-00:38:01,534 --> 00:38:02,852
+00:38:01,534 --> 00:38:02,452
 O homem que ficar com você
 
 850
-00:38:02,853 --> 00:38:04,323
+00:38:02,453 --> 00:38:04,323
 vai ter uma vida miserável.
 
 851
@@ -3665,7 +3665,7 @@ Eu não sei.
 Hoje não estou em mim...
 
 857
-00:38:16,810 --> 00:38:19,122
+00:38:16,410 --> 00:38:19,122
 Esta ridiculo com essa roupa.
 
 858
@@ -3677,7 +3677,7 @@ Esta roupa não é minha.
 Onde estão as suas roupas?
 
 860
-00:38:23,728 --> 00:38:24,869
+00:38:23,728 --> 00:38:24,469
 Perdi.
 
 861
@@ -3691,7 +3691,7 @@ Porque fiquei gay,
 assim de repente!
 
 863
-00:38:31,847 --> 00:38:33,511
+00:38:31,447 --> 00:38:33,511
 Olhe aqui rapaz, deixe de besteiras.
 
 864
@@ -3723,11 +3723,11 @@ que boa surpresa!
 E George...
 
 870
-00:39:08,243 --> 00:39:08,848
+00:39:08,243 --> 00:39:08,448
 ... o pequeno George...
 
 871
-00:39:08,872 --> 00:39:11,826
+00:39:08,472 --> 00:39:11,426
 É ótimo ver vocês.
 
 872
@@ -3808,7 +3808,7 @@ Eu só quero me casar.
 Susan, eu proibo...
 
 890
-00:39:53,049 --> 00:39:55,853
+00:39:53,049 --> 00:39:55,453
 Absolutamente
 não admito isso!
 
@@ -3821,7 +3821,7 @@ Já falei. Não vou fazer isso !
 Silencio!
 
 893
-00:40:07,854 --> 00:40:09,057
+00:40:07,454 --> 00:40:09,057
 CALADAS!
 
 894
@@ -3839,7 +3839,7 @@ Sim, sim, deve haver coisas
 do Mark aqui em casa...
 
 897
-00:40:28,831 --> 00:40:30,284
+00:40:28,431 --> 00:40:30,284
 Tem?
 
 898
@@ -3870,11 +3870,11 @@ Ele ama, ele não me ama,
 - se vestir.
 
 904
-00:41:04,252 --> 00:41:05,883
+00:41:04,252 --> 00:41:05,483
 Se ele se vestir, vai embora.
 
 905
-00:41:05,884 --> 00:41:08,032
+00:41:05,484 --> 00:41:08,032
 E é o único homem que eu amei!
 
 906
@@ -3912,7 +3912,7 @@ Vamos, ria... Eu sei que estou ridículo
 mas eu ja não me importo...
 
 914
-00:41:51,809 --> 00:41:53,192
+00:41:51,409 --> 00:41:53,192
 Não ligue...
 O que vai fazer?
 
@@ -3955,7 +3955,7 @@ Sr. Peabody ?
 Mas, David...
 
 924
-00:42:11,877 --> 00:42:13,532
+00:42:11,477 --> 00:42:13,532
 ...a única maneira de
 chegar ao Sr. Peabody
 
@@ -4009,7 +4009,7 @@ Qual é o problema?
 Porque é que entre 7 milhões de
 
 936
-00:42:37,761 --> 00:42:40,878
+00:42:37,761 --> 00:42:40,478
 pessoas eu tive de encontrar você ontem?
 
 937
@@ -4039,11 +4039,11 @@ uma má impressão...
 Eu sei...
 
 943
-00:43:01,579 --> 00:43:02,891
+00:43:01,579 --> 00:43:02,491
 Susan, ouça-me.
 
 944
-00:43:03,493 --> 00:43:04,898
+00:43:03,493 --> 00:43:04,498
 Muita coisa se passou,
 
 945
@@ -4056,7 +4056,7 @@ porque isto é sério.
 Porque, David ?
 
 947
-00:43:08,892 --> 00:43:11,476
+00:43:08,492 --> 00:43:11,476
 Consegue se concentrar
 por um momento?
 
@@ -4075,11 +4075,11 @@ e para o meu trabalho.
 óculos!
 
 951
-00:43:20,572 --> 00:43:23,870
+00:43:20,572 --> 00:43:23,470
 Susan, ouça-me e tente lembrar.
 
 952
-00:43:24,841 --> 00:43:26,573
+00:43:24,441 --> 00:43:26,573
 Eu fiz uma grande
 trapalhada.
 
@@ -4193,11 +4193,11 @@ O que queria que eu
 fizesse com um osso?
 
 978
-00:44:16,392 --> 00:44:17,895
+00:44:16,392 --> 00:44:17,495
 Eu nem sonho em atribuir uma razão
 
 979
-00:44:17,895 --> 00:44:18,878
+00:44:17,495 --> 00:44:18,478
 a nada do que você  faz.
 
 980
@@ -4222,15 +4222,15 @@ Agora que eles sabem onde encontrá-lo.
 não lhe pode pedir que mandem outro?
 
 985
-00:44:28,822 --> 00:44:31,494
+00:44:28,422 --> 00:44:31,494
 Susan, você  mexeu nele, tirou da caixa.
 
 986
-00:44:31,533 --> 00:44:32,822
+00:44:31,533 --> 00:44:32,422
 Onde é que o meteu?
 
 987
-00:44:32,869 --> 00:44:34,197
+00:44:32,469 --> 00:44:34,197
 De volta na caixa.
 
 988
@@ -4286,19 +4286,19 @@ roupas que conseguiu encontrar?
 - Porque ?
 
 1000
-00:45:07,245 --> 00:45:08,810
+00:45:07,245 --> 00:45:08,410
 O David o quer e o adora.
 
 1001
-00:45:08,835 --> 00:45:09,558
+00:45:08,435 --> 00:45:09,558
 Acha que é um cão tão simpático.
 
 1002
-00:45:10,013 --> 00:45:11,816
+00:45:10,013 --> 00:45:11,416
 O George é um demonio e você sabe disso.
 
 1003
-00:45:11,841 --> 00:45:13,090
+00:45:11,441 --> 00:45:13,090
 Mas David não.
 Venha aqui !
 
@@ -4327,7 +4327,7 @@ que o procura, se esconde.
 ...para qualquer lugar.
 
 1010
-00:45:32,812 --> 00:45:34,664
+00:45:32,412 --> 00:45:34,664
 Onde é que ele esconde as  coisas?
 
 1011
@@ -4336,11 +4336,11 @@ Oh David, como é que eu
 posso saber...
 
 1012
-00:45:35,585 --> 00:45:36,813
+00:45:35,585 --> 00:45:36,413
 Você devia saber.
 
 1013
-00:45:36,899 --> 00:45:39,022
+00:45:36,499 --> 00:45:39,022
 -Là está ele!
 George...
 
@@ -4365,7 +4365,7 @@ Isso é terrivel.
 Onde escondeu esse osso?
 
 1019
-00:45:49,531 --> 00:45:50,880
+00:45:49,531 --> 00:45:50,480
 Não, David.
 Não, desse modo.
 
@@ -4447,7 +4447,7 @@ Ele ja encontrou uma coisa.
 Já encontrou, David.
 
 1038
-00:46:40,830 --> 00:46:42,291
+00:46:40,430 --> 00:46:42,291
 Sinto qualquer coisa.
 
 1039
@@ -4514,7 +4514,7 @@ Bem em todo o lugar onde nos levou,
 encontramos alguma coisa.
 
 1054
-00:47:18,847 --> 00:47:20,103
+00:47:18,447 --> 00:47:20,103
 Olhe David, outra bota.
 
 1055
@@ -4522,7 +4522,7 @@ Olhe David, outra bota.
 Já faz três pares.
 
 1056
-00:47:22,861 --> 00:47:24,603
+00:47:22,461 --> 00:47:24,603
 Vamos lá George, para de fingir,
 
 1057
@@ -4542,7 +4542,7 @@ George, se concentra...
 Ossos, não botas...
 
 1061
-00:47:29,843 --> 00:47:31,178
+00:47:29,443 --> 00:47:31,178
 Lá vai ele.
 Ele entendeu.
 
@@ -4583,7 +4583,7 @@ Que diabo estão vocês estão fazendo?
 O que é tudo isto?
 
 1071
-00:47:49,380 --> 00:47:50,820
+00:47:49,380 --> 00:47:50,420
 São buracos.
 
 1072
@@ -4617,7 +4617,7 @@ Nao, eu sei que vou casar com ele,
 ele não sabe mas eu sei.
 
 1079
-00:48:03,837 --> 00:48:05,024
+00:48:03,437 --> 00:48:05,024
 Se pensa casar com o meu
 
 1080
@@ -4633,7 +4633,7 @@ Não quero outro maluco na familia.
 Ja tenho malucos que cheguem...
 
 1083
-00:48:09,869 --> 00:48:12,025
+00:48:09,469 --> 00:48:12,025
 Quando vai casar com ele?
 Qual é o seu nome?
 
@@ -4646,7 +4646,7 @@ Chama-se.... Bone (osso)!
 Ossos?
 
 1086
-00:48:15,853 --> 00:48:16,673
+00:48:15,453 --> 00:48:16,673
 Osso, um osso...
 
 1087
@@ -4702,11 +4702,11 @@ Diz-lhe que jantamos as
 8.30 é para não se atrasar.
 
 1099
-00:48:40,803 --> 00:48:42,343
+00:48:40,403 --> 00:48:42,343
 George, vem aqui.
 
 1100
-00:48:51,893 --> 00:48:53,221
+00:48:51,493 --> 00:48:53,221
 Sim Alice, é verdade.
 
 1101
@@ -4714,7 +4714,7 @@ Sim Alice, é verdade.
 Eu estou em Connecticut.
 
 1102
-00:48:54,229 --> 00:48:56,811
+00:48:54,229 --> 00:48:56,411
 Não posso ir, porque
 fui detido inevitavelmente.
 
@@ -4747,12 +4747,12 @@ David, é muito importante,
 e por causa do leopardo.
 
 1110
-00:49:23,696 --> 00:49:26,806
+00:49:23,696 --> 00:49:26,406
 Ele está rugindo muito,
 está com fome.
 
 1111
-00:49:26,876 --> 00:49:28,376
+00:49:26,476 --> 00:49:28,376
 Eu não posso evitar...
 
 1112
@@ -4785,7 +4785,7 @@ alguma coisa terrivel aconteceu!
 Susan, saia da linha, alô, alô!
 
 1119
-00:49:42,809 --> 00:49:44,801
+00:49:42,409 --> 00:49:44,401
 Eu não sei que horas são.
 
 1120
@@ -4794,7 +4794,7 @@ Quando ouvir o sinal, serao
 7.37 é um quarto.
 
 1121
-00:49:52,895 --> 00:49:56,410
+00:49:52,495 --> 00:49:56,410
 Susan por favor.
 Alice eu não a ouço...
 
@@ -4819,16 +4819,16 @@ O meu relógio diz que
 são 8.10 e um quarto.
 
 1126
-00:50:19,829 --> 00:50:20,532
+00:50:19,429 --> 00:50:20,532
 Quem é você ?
 
 1127
-00:50:20,562 --> 00:50:22,872
+00:50:20,562 --> 00:50:22,472
 Quem sou eu?
 Sou 8.10.
 
 1128
-00:50:23,305 --> 00:50:25,891
+00:50:23,305 --> 00:50:25,491
 Sou o Major
 Horace Applegate.
 
@@ -4841,7 +4841,7 @@ O que quer?
 A Sra, Random me convidou para jantar.
 
 1131
-00:50:29,538 --> 00:50:32,810
+00:50:29,538 --> 00:50:32,410
 Não se importa de
 perguntar se ainda me quer ?
 
@@ -4862,11 +4862,11 @@ Oh Horace, o que está fazendo?
 Entrando ou saindo?
 
 1136
-00:50:40,863 --> 00:50:43,032
+00:50:40,463 --> 00:50:43,032
 Está entrando e é o Major Applegate.
 
 1137
-00:50:43,087 --> 00:50:44,884
+00:50:43,087 --> 00:50:44,484
 Ola, sou Susan Vance.
 
 1138
@@ -4949,7 +4949,7 @@ Eu conheço o Major Applegate há 20 anos.
 Não é, Horace ?
 
 1157
-00:51:27,441 --> 00:51:29,875
+00:51:27,441 --> 00:51:29,475
 22 para ser preciso, Elizabeth.
 
 1158
@@ -4965,7 +4965,7 @@ Sr. Applegate.
 Como estou de novo?
 
 1161
-00:51:34,894 --> 00:51:36,595
+00:51:34,494 --> 00:51:36,595
 Agora o Sr. Bone vai
 dar uma volta.
 
@@ -4978,7 +4978,7 @@ Deixe-me explicar...
 Não é preciso explicar...
 
 1164
-00:51:39,832 --> 00:51:42,331
+00:51:39,432 --> 00:51:42,331
 Não é preciso, eu compreendo...
 
 1165
@@ -5042,7 +5042,7 @@ entreter a mesa.
 Não sei a que se refere...
 
 1179
-00:52:16,870 --> 00:52:20,676
+00:52:16,470 --> 00:52:20,676
 Fale do que ele conhece:
 Grandes caçadas.
 
@@ -5052,7 +5052,7 @@ Ele é um grande caçador
 como você .
 
 1181
-00:52:22,809 --> 00:52:24,520
+00:52:22,409 --> 00:52:24,520
 Não me diga... Oh Elizabeth
 
 1182
@@ -5091,7 +5091,7 @@ vi envolvido nisto tudo...
 Sr. Bone... não é incrivel !
 
 1190
-00:52:42,824 --> 00:52:44,143
+00:52:42,424 --> 00:52:44,143
 Voce é que me disse para não dizer
 
 1191
@@ -5099,15 +5099,15 @@ Voce é que me disse para não dizer
 a tia Elizabeth o seu verdadeiro nome.
 
 1192
-00:52:45,784 --> 00:52:47,852
+00:52:45,784 --> 00:52:47,452
 Não lhe disse para escolher um nome
 
 1193
-00:52:47,877 --> 00:52:49,540
+00:52:47,477 --> 00:52:49,540
 como Osso, isso é dificil...
 
 1194
-00:52:51,813 --> 00:52:56,812
+00:52:51,413 --> 00:52:56,412
 George, George...
 Depressa. vamos sair daqui.
 
@@ -5129,7 +5129,7 @@ aconteceria se o Baby e
 o George se encontrassem?
 
 1199
-00:53:05,239 --> 00:53:06,889
+00:53:05,239 --> 00:53:06,489
 Provavelmente gostariam um do outro.
 
 1200
@@ -5138,7 +5138,7 @@ Provavelmente gostariam um do outro.
 - Senão, o Baby comia o George...
 
 1201
-00:53:09,817 --> 00:53:10,769
+00:53:09,417 --> 00:53:10,769
 Exatamente.
 
 1202
@@ -5155,7 +5155,7 @@ fazem antes de atacar..
 Mas eu estava preparado.
 
 1205
-00:53:18,043 --> 00:53:21,819
+00:53:18,043 --> 00:53:21,419
 Mirei e atirei entre os olhos.
 
 1206
@@ -5163,7 +5163,7 @@ Mirei e atirei entre os olhos.
 Foi uma experiencia estimulante.
 
 1207
-00:53:25,817 --> 00:53:27,778
+00:53:25,417 --> 00:53:27,778
 Como todos concordarão...
 
 1208
@@ -5179,7 +5179,7 @@ Nunca esteve.... Perdão...
 Já esteve na Arábia, Sr. Bone?
 
 1211
-00:53:41,811 --> 00:53:44,845
+00:53:41,411 --> 00:53:44,445
 Perguntei se já esteve na Arábia, Sr. Bone?
 
 1212
@@ -5224,7 +5224,7 @@ Sabem, nunca  deve mencionar
 a peninsula Maylay.
 
 1222
-00:54:04,846 --> 00:54:05,568
+00:54:04,446 --> 00:54:05,568
 Foi horrivelmente atingido lá,
 
 1223
@@ -5262,7 +5262,7 @@ Mas eu nunca estive lá...
 Nunca..? Bem, não faz mal...
 
 1231
-00:54:29,880 --> 00:54:33,841
+00:54:29,480 --> 00:54:33,441
 Que tipo de arma usa na
 caça ao tigre, Sr. Bone ?
 
@@ -5284,7 +5284,7 @@ Susan, imagina dar um jantar,
 com o seu marido desaparecendo
 
 1236
-00:54:45,757 --> 00:54:47,814
+00:54:45,757 --> 00:54:47,414
 como o fantasma de Hamlet
 toda noite?
 
@@ -5302,12 +5302,12 @@ Estavamos falando da selva,
 enquanto saiu, Sr. Bone.
 
 1240
-00:55:05,712 --> 00:55:07,861
+00:55:05,712 --> 00:55:07,461
 A minha sopa sumiu.
 -Estava fria.
 
 1241
-00:55:09,297 --> 00:55:10,890
+00:55:09,297 --> 00:55:10,490
 Cavando buracos.
 
 1242
@@ -5374,7 +5374,7 @@ Quando a selva nos entra no sangue
 não a conseguimos largar...
 
 1257
-00:56:03,235 --> 00:56:04,852
+00:56:03,235 --> 00:56:04,452
 Susan, ouviu isto?
 
 1258
@@ -5390,7 +5390,7 @@ Tem a certeza de que é um pato mergulhão ?
 Oh sim, eu ja ouvi muitas vezes,
 
 1261
-00:56:11,852 --> 00:56:14,584
+00:56:11,452 --> 00:56:14,584
 e este é sem duvida um pato mergulhão.
 
 1262
@@ -5407,16 +5407,16 @@ Não.
 - Um leopardo.
 
 1265
-00:56:21,654 --> 00:56:22,865
+00:56:21,654 --> 00:56:22,465
 Não seja ridículo.
 
 1266
-00:56:23,130 --> 00:56:25,810
+00:56:23,130 --> 00:56:25,410
 O Major reconheceria
 um leopardo se o ouvisse.
 
 1267
-00:56:25,865 --> 00:56:27,295
+00:56:25,465 --> 00:56:27,295
 Obrigado Elizabeth, eu sou
 
 1268
@@ -5433,7 +5433,7 @@ Desculpe Major,
 tem razao, é um pato mergulhão.
 
 1271
-00:56:34,573 --> 00:56:35,838
+00:56:34,573 --> 00:56:35,438
 Obrigado, obrigado.
 
 1272
@@ -5449,7 +5449,7 @@ quando se ouve nunca se esquece.
 Sim, eu sei.
 
 1275
-00:56:42,826 --> 00:56:44,169
+00:56:42,426 --> 00:56:44,169
 O senhor sabe ? Obrigado.
 
 1276
@@ -5474,7 +5474,7 @@ Tenho que  me preparar, sabe ?
 Deixem-me ver...
 
 1281
-00:57:00,659 --> 00:57:01,815
+00:57:00,659 --> 00:57:01,415
 Aí, vai...
 
 1282
@@ -5494,11 +5494,11 @@ Claro que eu não pratico o som
 do leopardo há muito tempo...
 
 1286
-00:57:15,425 --> 00:57:16,814
+00:57:15,425 --> 00:57:16,414
 Estou um pouco destreinado.
 
 1287
-00:57:16,839 --> 00:57:17,595
+00:57:16,439 --> 00:57:17,595
 Tente outra vez.
 
 1288
@@ -5524,11 +5524,11 @@ Sim, vou tentar outra vez.
 Ai esta, bem melhor.
 
 1293
-00:57:46,516 --> 00:57:48,839
+00:57:46,516 --> 00:57:48,439
 É curioso. Não há leopardos em...
 
 1294
-00:57:48,840 --> 00:57:50,185
+00:57:48,440 --> 00:57:50,185
 ...Connecticut, não é?
 
 1295
@@ -5549,7 +5549,7 @@ Porque diz que sim?
 Sim, acho que tem.
 
 1299
-00:57:57,898 --> 00:57:59,407
+00:57:57,498 --> 00:57:59,407
 Fica aqui e termine seu jantar.
 
 1300
@@ -5613,7 +5613,7 @@ Hanna Gogarty !
 Minha arma !
 
 1314
-00:59:01,730 --> 00:59:03,873
+00:59:01,730 --> 00:59:03,473
 Santo Deus, e agora o que
 aconteceu?
 
@@ -5623,7 +5623,7 @@ Não tenho tempo agora.
 Cadê minha arma ?
 
 1316
-00:59:12,839 --> 00:59:14,606
+00:59:12,439 --> 00:59:14,606
 O que se passa?
 
 1317
@@ -5632,7 +5632,7 @@ O que se passa?
 - Viu o que?
 
 1318
-00:59:17,835 --> 00:59:19,825
+00:59:17,435 --> 00:59:19,425
 Um gato, grande como
 uma vaca!
 
@@ -5646,7 +5646,7 @@ de fogo.
 Hannah, limpe esta sujeira
 
 1321
-00:59:22,845 --> 00:59:24,148
+00:59:22,445 --> 00:59:24,148
 e traga o proximo prato.
 
 1322
@@ -5667,7 +5667,7 @@ Tenho que ver o George
 Não. Vai ficar aqui, senão digo a tia
 
 1326
-00:59:31,319 --> 00:59:32,821
+00:59:31,319 --> 00:59:32,421
 ... que o seu nome é Dr. Huxley.
 
 1327
@@ -5684,11 +5684,11 @@ Susan, não faça isso.
 Esta bem, eu farei tudo o que me pediu.
 
 1330
-00:59:37,869 --> 00:59:38,752
+00:59:37,469 --> 00:59:38,752
 George, fique aqui.
 
 1331
-00:59:38,869 --> 00:59:41,834
+00:59:38,469 --> 00:59:41,434
 Major, tome conta do George.
 
 1332
@@ -5704,11 +5704,11 @@ Oh! querido, a tia...
 Não perca a cabeça, querida.
 
 1335
-00:59:53,164 --> 00:59:54,851
+00:59:53,164 --> 00:59:54,451
 Eu não perdi a minha cabeça.
 
 1336
-00:59:54,876 --> 00:59:56,425
+00:59:54,476 --> 00:59:56,425
 Perdi foi o meu leopardo!
 
 1337
@@ -5733,12 +5733,12 @@ Eu chamo o zôo, digo que vimos
 Vamos !
 
 1342
-01:00:10,888 --> 01:00:13,849
+01:00:10,488 --> 01:00:13,449
 Espero que desta vez
 tenham vindo para ficar.
 
 1343
-01:00:13,562 --> 01:00:18,821
+01:00:13,562 --> 01:00:18,421
 Sim, fomos só dar uma volta.
 
 1344
@@ -5746,7 +5746,7 @@ Sim, fomos só dar uma volta.
 Onde vai aquele rapaz agora?
 
 1345
-01:00:20,841 --> 01:00:22,884
+01:00:20,441 --> 01:00:22,484
 Foi descansar um pouco.
 
 1346
@@ -5760,7 +5760,7 @@ Alguma vez teve febre
 da selva, Major?
 
 1348
-01:00:28,811 --> 01:00:31,829
+01:00:28,411 --> 01:00:31,429
 Então sabe como e
 importante descansar...
 
@@ -5798,7 +5798,7 @@ Ouçam isto.
 O que ?
 
 1357
-01:00:44,200 --> 01:00:45,856
+01:00:44,200 --> 01:00:45,456
 É um telegrama do Mark.
 
 1358
@@ -5824,7 +5824,7 @@ O seu leopardo?
 Eu sempre quis um leopardo.
 
 1363
-01:01:01,363 --> 01:01:02,879
+01:01:01,363 --> 01:01:02,479
 Desculpem.
 Ele me prometeu ...
 
@@ -5850,7 +5850,7 @@ Telefone outra vez. -Porque?
 -Não faça perguntas e telefone.
 
 1369
-01:01:12,809 --> 01:01:13,736
+01:01:12,409 --> 01:01:13,736
 Eu ja lhes disse que podiam ficar
 
 1370
@@ -5867,7 +5867,7 @@ Voce deu o Baby?
 Não tem esse direito, ele não
 
 1373
-01:01:18,101 --> 01:01:19,879
+01:01:18,101 --> 01:01:19,479
 lhe pertence. é tudo culpa sua...
 
 1374
@@ -5916,7 +5916,7 @@ e está sempre a ver coisas...
 Deixe estar... Dê aqui isso...
 
 1385
-01:01:42,818 --> 01:01:44,052
+01:01:42,418 --> 01:01:44,052
 Alô? Telefonista.
 
 1386
@@ -5967,7 +5967,7 @@ todos a caça do leopardo.
 Puxa ! Nos meteu numa terrível confusão.
 
 1397
-01:02:09,327 --> 01:02:10,881
+01:02:09,327 --> 01:02:10,481
 Vamos pensar antes de agir.
 
 1398
@@ -5985,7 +5985,7 @@ se vai caçar um leopardo?
 Leopardo de que tamanho ?
 
 1401
-01:02:16,834 --> 01:02:18,745
+01:02:16,434 --> 01:02:18,745
 Temos de  apanhá-lo
 antes deles!
 
@@ -6007,7 +6007,7 @@ levar o George para passear.
 Onde está a coleira?
 
 1406
-01:02:27,205 --> 01:02:27,873
+01:02:27,205 --> 01:02:27,473
 O que houve ?
 
 1407
@@ -6033,7 +6033,7 @@ Porque ele sabe onde está
 a minha clavicula intercostal.
 
 1412
-01:02:34,815 --> 01:02:35,501
+01:02:34,415 --> 01:02:35,501
 A sua que?
 
 1413
@@ -6054,7 +6054,7 @@ Então onde esta?
 - Foi embora.
 
 1417
-01:02:41,840 --> 01:02:43,298
+01:02:41,440 --> 01:02:43,298
 - Para onde?
 - Por aquela porta.
 
@@ -6087,7 +6087,7 @@ Não entendo porque é que um pato mergulhão
 responderia ao rugido de um leopardo?
 
 1424
-01:03:02,842 --> 01:03:04,383
+01:03:02,442 --> 01:03:04,383
 Há qualquer coisa de errado.
 
 1425
@@ -6095,7 +6095,7 @@ Há qualquer coisa de errado.
 Para mim os dois sons são iguais...
 
 1426
-01:03:06,829 --> 01:03:09,532
+01:03:06,429 --> 01:03:09,532
 Desculpe Elizabeth, mas o
 rugido o leopardo
 
@@ -6141,7 +6141,7 @@ Permite modular um som mais
 límpido...
 
 1436
-01:03:41,840 --> 01:03:44,567
+01:03:41,440 --> 01:03:44,567
 Depois de fazer isto, respire fundo,
 
 1437
@@ -6153,11 +6153,11 @@ com a garganta bem aberta e sai...
 Muito bem, Elizabeth!
 
 1439
-01:03:59,347 --> 01:04:01,844
+01:03:59,347 --> 01:04:01,444
 Para alguem que nunca tinha experimentado
 
 1440
-01:04:01,845 --> 01:04:03,378
+01:04:01,445 --> 01:04:03,378
 acho que saiu muito bem...
 
 1441
@@ -6165,7 +6165,7 @@ acho que saiu muito bem...
 Saiu o que?
 
 1442
-01:04:04,866 --> 01:04:06,123
+01:04:04,466 --> 01:04:06,123
 O grito do macho.
 
 1443
@@ -6218,7 +6218,7 @@ Mas desde que cheguei a casa
 que noto algo de errado.
 
 1454
-01:04:27,859 --> 01:04:30,541
+01:04:27,459 --> 01:04:30,541
 Elizabeth, na acha melhor
 regressarmos a casa?
 
@@ -6231,7 +6231,7 @@ Não, acabamos de sair de casa!
 Acho que era boa idéia regressar...
 
 1457
-01:04:35,430 --> 01:04:37,889
+01:04:35,430 --> 01:04:37,489
 Não, acho melhor idéia
 continuar o nosso passeio.
 
@@ -6279,7 +6279,7 @@ Alguma coisa se mexeu
 naquele arbusto!
 
 1468
-01:05:06,852 --> 01:05:08,202
+01:05:06,452 --> 01:05:08,202
 Deixe eu ir na frente.
 
 1469
@@ -6352,7 +6352,7 @@ Aposto que Miss Swallow
 conhece heras venenosas.
 
 1485
-01:06:06,252 --> 01:06:06,898
+01:06:06,252 --> 01:06:06,498
 quando as vê.
 
 1486
@@ -6394,15 +6394,15 @@ Espere. Ouviu isso?
 E o Baby.
 
 1495
-01:06:59,027 --> 01:06:59,896
+01:06:59,027 --> 01:06:59,496
 E o George tambem!
 
 1496
-01:06:59,897 --> 01:07:01,250
+01:06:59,497 --> 01:07:01,250
 Não acha que...
 
 1497
-01:07:02,897 --> 01:07:03,896
+01:07:02,497 --> 01:07:03,496
 Cale-se.
 
 1498
@@ -6465,7 +6465,7 @@ Agora o George e o Baby desapareceram.
 Já que estavamos lá dentro
 
 1512
-01:08:19,666 --> 01:08:21,809
+01:08:19,666 --> 01:08:21,409
 bem podiamos ter ido para o outro lado.
 
 1513
@@ -6489,11 +6489,11 @@ Se tivessemos um vestiário.
 isto não teria sido tão complicado.
 
 1518
-01:08:38,004 --> 01:08:39,879
+01:08:38,004 --> 01:08:39,479
 Da proxima vez eu tento arranjar um.
 
 1519
-01:08:39,880 --> 01:08:42,884
+01:08:39,480 --> 01:08:42,484
 Ou talvez haja vestiários portateis
 para pessoas como você .
 
@@ -6506,16 +6506,16 @@ Sim, devem existir...
 David, não seja tão resmungão.
 
 1522
-01:08:47,162 --> 01:08:50,809
+01:08:47,162 --> 01:08:50,409
 Foi tão divertido, há luar e tudo.
 Tem sido adoravel...
 
 1523
-01:08:50,879 --> 01:08:52,796
+01:08:50,479 --> 01:08:52,796
 E eu gosto tanto de estar com você.
 
 1524
-01:08:52,821 --> 01:08:55,051
+01:08:52,421 --> 01:08:55,051
 Ah, sim?
 Pois eu gosto de paz e sossego.
 
@@ -6524,7 +6524,7 @@ Pois eu gosto de paz e sossego.
 Mas há paz e sossego aqui.
 
 1526
-01:08:58,819 --> 01:09:00,466
+01:08:58,419 --> 01:09:00,466
 Então vamos ficar aqui e
 esperar que o George e o Baby,
 
@@ -6576,20 +6576,20 @@ o milhão de dólares que
 eu preciso para o meu Museu.
 
 1538
-01:09:28,213 --> 01:09:29,801
+01:09:28,213 --> 01:09:29,401
 Se tivesse planejado isto, não teria
 
 1539
-01:09:29,802 --> 01:09:31,522
+01:09:29,402 --> 01:09:31,522
 arruinado melhor as minhas chances...
 
 1540
-01:09:32,690 --> 01:09:34,862
+01:09:32,690 --> 01:09:34,462
 Voce disse a sua tia que
 eu era maluco, não disse?
 
 1541
-01:09:35,823 --> 01:09:37,417
+01:09:35,423 --> 01:09:37,417
 Disse que o meu nome
 era Bone
 
@@ -6656,7 +6656,7 @@ ontem a noite. Julga ele...
 De onde vem esta música David?
 
 1556
-01:10:15,806 --> 01:10:18,552
+01:10:15,406 --> 01:10:18,552
 De Westlake. lá tem um circo.
 
 1557
@@ -6664,7 +6664,7 @@ De Westlake. lá tem um circo.
 Tenho um trabalho para você.
 
 1558
-01:10:26,879 --> 01:10:28,869
+01:10:26,479 --> 01:10:28,469
 O chefe quer que leve
 o leopardo até Bridgeport.
 
@@ -6673,7 +6673,7 @@ o leopardo até Bridgeport.
 Que aconteceu?
 
 1560
-01:10:29,855 --> 01:10:31,776
+01:10:29,455 --> 01:10:31,776
 Ele machucou o novo tratador.
 
 1561
@@ -6681,7 +6681,7 @@ Ele machucou o novo tratador.
 Machucou ?
 
 1562
-01:10:32,808 --> 01:10:34,350
+01:10:32,408 --> 01:10:34,350
 Muito. Não acha que três minutos
 
 1563
@@ -6697,7 +6697,7 @@ Deviamos tê-lo abatido no verão
 passado, quando atacou o Caldoni...
 
 1566
-01:10:39,027 --> 01:10:39,818
+01:10:39,027 --> 01:10:39,418
 Que faço com ele?
 
 1567
@@ -6709,11 +6709,11 @@ Entrega-o neste endereço.
 Lá tem uma câmara de gas para o abater.
 
 1569
-01:10:43,861 --> 01:10:44,842
+01:10:43,461 --> 01:10:44,442
 Vai tambem com ele Matt...
 
 1570
-01:10:44,881 --> 01:10:45,527
+01:10:44,481 --> 01:10:45,527
 Quem eu?
 
 1571
@@ -6757,11 +6757,11 @@ Ei, o que será aquilo?
 Matt, vê o que diz aquele sinal.
 
 1580
-01:11:11,829 --> 01:11:13,755
+01:11:11,429 --> 01:11:13,755
 David é o caminhão do zôo.
 
 1581
-01:11:13,880 --> 01:11:15,084
+01:11:13,480 --> 01:11:15,084
 Eles estão com o Baby.
 
 1582
@@ -6769,7 +6769,7 @@ Eles estão com o Baby.
 O George está com ele?
 
 1583
-01:11:17,849 --> 01:11:20,508
+01:11:17,449 --> 01:11:20,508
 Não o vejo, mas temos
 que libertar o Baby.
 
@@ -6783,7 +6783,7 @@ prometi era que a ajudaria
 a encontrar o Baby. Bem encontrou...
 
 1586
-01:11:24,880 --> 01:11:26,896
+01:11:24,480 --> 01:11:26,496
 Ouça, tudo o que tem a
 fazer é falar com aqueles
 
@@ -6796,7 +6796,7 @@ homens da frente do caminhão, enquanto
 eu vou atrás e solto o Baby.
 
 1589
-01:11:29,531 --> 01:11:30,865
+01:11:29,531 --> 01:11:30,465
 Mas que lhe vou dizer?
 
 1590
@@ -6816,7 +6816,7 @@ Não encontro Bridgeport.
 Tem o mapa ao contrário.
 
 1594
-01:11:41,721 --> 01:11:42,885
+01:11:41,721 --> 01:11:42,485
 Boa noite, senhores.
 
 1595
@@ -6862,7 +6862,7 @@ Eu julgava que era por ali.
 -Não lhe disse...
 
 1605
-01:12:05,871 --> 01:12:06,824
+01:12:05,471 --> 01:12:06,424
 Anda
 
 1606
@@ -6879,7 +6879,7 @@ Quer ajuda para o prender?
 Oh não ! Não fui eu...
 
 1609
-01:12:38,830 --> 01:12:40,571
+01:12:38,430 --> 01:12:40,571
 Estão enganados...
 Boa noite.
 
@@ -6894,7 +6894,7 @@ Estamos na pista certa.
 -Nao, acho que foi para este lado.
 
 1612
-01:12:56,826 --> 01:12:59,465
+01:12:56,426 --> 01:12:59,465
 O ruido vinha daqui.
 
 1613
@@ -6955,15 +6955,15 @@ e talvez ele ajude a pegar o leopardo.
 O senhor sabe que a tia Elizabeth
 
 1626
-01:13:27,532 --> 01:13:29,848
+01:13:27,532 --> 01:13:29,448
 esperava um leopardo do Brasil, não sabe?
 
 1627
-01:13:29,849 --> 01:13:30,553
+01:13:29,449 --> 01:13:30,553
 Ouvi isso, sim.
 
 1628
-01:13:30,578 --> 01:13:32,807
+01:13:30,578 --> 01:13:32,407
 Pois este é o leopardo dela
 e é domesticado.
 
@@ -6980,7 +6980,7 @@ Domesticado ?
 Sim, domesticado. Estava preso, mas fugiu.
 
 1632
-01:13:40,855 --> 01:13:42,765
+01:13:40,455 --> 01:13:42,765
 - Tem a certeza de que é inofensivo?
 - Absoluta !
 
@@ -6998,7 +6998,7 @@ Eu disse.
 As minhas desculpas Sr... Bone..
 
 1636
-01:13:49,894 --> 01:13:51,065
+01:13:49,494 --> 01:13:51,065
 Mesmo domesticado, acho que
 
 1637
@@ -7101,11 +7101,11 @@ Saia do meu caminho.
 A arma , homem. È melhor usar a arma.
 
 1659
-01:15:09,841 --> 01:15:11,169
+01:15:09,441 --> 01:15:11,169
 Use a arma
 
 1660
-01:15:12,595 --> 01:15:14,854
+01:15:12,595 --> 01:15:14,454
 - Você o vê, David?
 - Não.
 
@@ -7128,7 +7128,7 @@ Oh, os meus óculos!
 Não se mova, Susan.
 
 1665
-01:15:27,151 --> 01:15:28,823
+01:15:27,151 --> 01:15:28,423
 Eles estão aqui.
 
 1666
@@ -7219,7 +7219,7 @@ ajude mais?
 Não.
 
 1686
-01:16:26,858 --> 01:16:28,543
+01:16:26,458 --> 01:16:28,543
 Depois de toda a diversão
 que tivemos?
 
@@ -7233,11 +7233,11 @@ E depois de tudo o que
 fiz por você?
 
 1689
-01:16:31,897 --> 01:16:32,526
+01:16:31,497 --> 01:16:32,526
 Precisamente.
 
 1690
-01:16:32,577 --> 01:16:35,856
+01:16:32,577 --> 01:16:35,456
 Ja percebi. Eu percebo
 quando não me querem...
 
@@ -7246,11 +7246,11 @@ quando não me querem...
 E não se preocupe comigo.
 
 1692
-01:16:37,840 --> 01:16:39,653
+01:16:37,440 --> 01:16:39,653
 Eu sei tomar conta de mim.
 
 1693
-01:16:40,856 --> 01:16:41,832
+01:16:40,456 --> 01:16:41,432
 Minha nossa !
 
 1694
@@ -7283,7 +7283,7 @@ Só se quer ver livre de mim!
 E já não gosta de mim!
 
 1701
-01:16:59,678 --> 01:17:00,882
+01:16:59,678 --> 01:17:00,482
 Tem a cara suja...
 
 1702
@@ -7328,7 +7328,7 @@ Tem a certeza de que me quer?
 Sim.
 
 1712
-01:17:33,877 --> 01:17:34,853
+01:17:33,477 --> 01:17:34,453
 Absoluta?
 
 1713
@@ -7341,11 +7341,11 @@ Vamos.
 Não se preocupe David...
 
 1715
-01:17:39,549 --> 01:17:40,806
+01:17:39,549 --> 01:17:40,406
 Porque se houver alguma coisa
 
 1716
-01:17:40,807 --> 01:17:42,072
+01:17:40,407 --> 01:17:42,072
 que eu possa fazer para o ajudar...
 
 1717
@@ -7378,15 +7378,15 @@ Suponho que você  quer que eu suba
 e o empurre aqui para baixo?
 
 1724
-01:18:16,815 --> 01:18:18,233
+01:18:16,415 --> 01:18:18,233
 Então é melhor cantarmos!
 
 1725
-01:18:20,849 --> 01:18:22,169
+01:18:20,449 --> 01:18:22,169
 Cante David!
 
 1726
-01:19:01,159 --> 01:19:02,839
+01:19:01,159 --> 01:19:02,439
 David, onde você vai ?
 
 1727
@@ -7395,7 +7395,7 @@ Volto logo.
 Oh, querido.
 
 1728
-01:19:09,401 --> 01:19:10,851
+01:19:09,401 --> 01:19:10,451
 Não é você , é ele...
 
 1729
@@ -7420,11 +7420,11 @@ Não estou pagando uma aposta
 tem um leopardo no seu telhado.
 
 1734
-01:19:21,819 --> 01:19:22,877
+01:19:21,419 --> 01:19:22,477
 Eu não vou ficar ouvindo
 
 1735
-01:19:22,878 --> 01:19:25,084
+01:19:22,478 --> 01:19:25,084
 as sua reflexões disparatadas.
 
 1736
@@ -7487,7 +7487,7 @@ Por favor ajude a encontrá-lo.
 Mas claro, venha comigo.
 
 1750
-01:20:06,815 --> 01:20:08,487
+01:20:06,415 --> 01:20:08,487
 Você não entendeu, ele foi por aquele lado!
 
 1751
@@ -7591,7 +7591,7 @@ Que está fazendo?
 Eu tenho um grampo.
 
 1775
-01:21:25,402 --> 01:21:26,880
+01:21:25,402 --> 01:21:26,480
 Uma vez abri uma mala.
 
 1776
@@ -7611,12 +7611,12 @@ Quando souber quem você  é
 vão acolchoar a cela.
 
 1780
-01:21:35,868 --> 01:21:38,476
+01:21:35,468 --> 01:21:38,476
 Prendemos uma moça que diz
 ser sua sobrinha.
 
 1781
-01:21:38,848 --> 01:21:42,070
+01:21:38,448 --> 01:21:42,070
 Agora a  pergunta é se tem ou
 não uma sobrinha.
 
@@ -7647,7 +7647,7 @@ depois eu falo com você.
 Senhora, se  recusa a descer ...
 
 1788
-01:21:53,556 --> 01:21:55,833
+01:21:53,556 --> 01:21:55,433
 ...e identificar esta garota?
 
 1789
@@ -7660,7 +7660,7 @@ com esta moça
 o que não é minha responsabilidade..
 
 1791
-01:22:00,846 --> 01:22:02,526
+01:22:00,446 --> 01:22:02,526
 Mando prendê-lo.
 
 1792
@@ -7673,7 +7673,7 @@ Ela diz que a sobrinha
 está dormindo.
 
 1794
-01:22:07,860 --> 01:22:09,561
+01:22:07,460 --> 01:22:09,561
 Tal como suspeitei.
 A moça está mentindo.
 
@@ -7682,11 +7682,11 @@ A moça está mentindo.
 Eu acho que tem razão.
 
 1796
-01:22:11,039 --> 01:22:11,813
+01:22:11,039 --> 01:22:11,413
 Ambos estão mentindo.
 
 1797
-01:22:11,838 --> 01:22:12,847
+01:22:11,438 --> 01:22:12,447
 O que vai fazer?
 
 1798
@@ -7700,7 +7700,7 @@ Tem razão.
 Vou ter uma conversa com eles.
 
 1800
-01:22:22,806 --> 01:22:23,869
+01:22:22,406 --> 01:22:23,469
 Ouçam o que tenho a dizer.
 
 1801
@@ -7731,7 +7731,7 @@ Fique calma, por favor...
 O que diz a  minha tia  ?
 
 1807
-01:22:35,882 --> 01:22:37,193
+01:22:35,482 --> 01:22:37,193
 Sua tia... Porque ela disse..
 
 1808
@@ -7744,11 +7744,11 @@ Agora, minha jovem, você não tem tia !
 -Silencio ! Por favor.
 
 1810
-01:22:41,467 --> 01:22:42,800
+01:22:41,467 --> 01:22:42,400
 Agora, veja bem rapaz...
 
 1811
-01:22:42,865 --> 01:22:44,232
+01:22:42,465 --> 01:22:44,232
 Quero que me diga exatamente
 
 1812
@@ -7825,7 +7825,7 @@ da minha... da tia dela...
 na casa da tia, sim.
 
 1829
-01:23:17,599 --> 01:23:19,864
+01:23:17,599 --> 01:23:19,464
 A tia dela prometeu me dar...
 
 1830
@@ -7890,7 +7890,7 @@ Então o que estou fazendo aqui?
 Está aqui porque  a sua tia...
 
 1844
-01:23:45,834 --> 01:23:48,286
+01:23:45,434 --> 01:23:48,286
 Bolas, a senhora sabe que
 não tem tia.
 
@@ -7945,7 +7945,7 @@ Vá embora, por favor.
 Oh ! Cale-se David.
 
 1857
-01:24:05,676 --> 01:24:07,815
+01:24:05,676 --> 01:24:07,415
 Agora, David.
 Por favor, calma...
 
@@ -7996,7 +7996,7 @@ Oh! Elmer.
 Traga a chave, rápido!
 
 1869
-01:24:25,340 --> 01:24:26,860
+01:24:25,340 --> 01:24:26,460
 Tranque ! Tranque !
 
 1870
@@ -8018,7 +8018,7 @@ perigoso sem trancar a cela.
 Quero dizer que tinha visto
 
 1874
-01:24:36,824 --> 01:24:37,580
+01:24:36,424 --> 01:24:37,580
 e não houve nenhum prejuizo
 
 1875
@@ -8026,7 +8026,7 @@ e não houve nenhum prejuizo
 Eu já tinha visto.
 
 1876
-01:24:39,055 --> 01:24:40,842
+01:24:39,055 --> 01:24:40,442
 Você não tem o direito de fazer isso.
 
 1877
@@ -8074,7 +8074,7 @@ Aqui,  amigo ...
 Segurem ele por um tempo.
 
 1887
-01:25:05,588 --> 01:25:06,877
+01:25:05,588 --> 01:25:06,477
 Olá, Gomgarty.
 
 1888
@@ -8096,7 +8096,7 @@ eu lhe tiro daqui...
 Veja. Ela já me tirou tambem...
 
 1892
-01:25:15,813 --> 01:25:17,458
+01:25:15,413 --> 01:25:17,458
 Conhece esta senhorita?
 
 1893
@@ -8110,7 +8110,7 @@ Eu tabalho para a tia dela.
 - Trabalho para a tia dela.
 
 1895
-01:25:23,416 --> 01:25:25,886
+01:25:23,416 --> 01:25:25,486
 Se mais alguem falar
 que ela tem uma tia ...
 
@@ -8137,7 +8137,7 @@ Ei, comissario...
 Que história é essa..
 
 1901
-01:25:36,817 --> 01:25:37,640
+01:25:36,417 --> 01:25:37,640
 de prender a minha sobrinha?
 
 1902
@@ -8145,11 +8145,11 @@ de prender a minha sobrinha?
 Não admito isso ! Me dê as chaves.
 
 1903
-01:25:39,000 --> 01:25:39,850
+01:25:39,000 --> 01:25:39,450
 Vamos, vamos...
 
 1904
-01:25:39,875 --> 01:25:41,155
+01:25:39,475 --> 01:25:41,155
 A senhora está histérica.
 
 1905
@@ -8169,7 +8169,7 @@ Quero a minha sobrinha, já !
 Quem é a sua sobrinha?
 
 1909
-01:25:45,883 --> 01:25:46,748
+01:25:45,483 --> 01:25:46,748
 Fale como ela é.
 
 1910
@@ -8202,7 +8202,7 @@ Sou Mrs. Carleton-Random,
 e quero a minha sobrinha.
 
 1917
-01:25:57,129 --> 01:25:58,809
+01:25:57,129 --> 01:25:58,409
 Ah então é Mrs. Carlton Random?
 
 1918
@@ -8210,11 +8210,11 @@ Ah então é Mrs. Carlton Random?
 E diz que a sua sobrinha está aqui?
 
 1919
-01:26:00,825 --> 01:26:01,744
+01:26:00,425 --> 01:26:01,744
 Certamente, está.
 
 1920
-01:26:02,100 --> 01:26:04,837
+01:26:02,100 --> 01:26:04,437
 Lhe peguei!
 A que temos aqui, não tem tia.
 
@@ -8231,7 +8231,7 @@ falei com ela ao telefone tem 10 minutos.
 Eu sei quem eu sou !
 
 1924
-01:26:11,847 --> 01:26:13,112
+01:26:11,447 --> 01:26:13,112
 Você sabe,  Elizabeth...
 
 1925
@@ -8245,12 +8245,12 @@ no telefone,  isso é certo.
 - Eu estava lá.
 
 1927
-01:26:17,724 --> 01:26:18,834
+01:26:17,724 --> 01:26:18,434
 - Quem é você ?
 - Sou a sobrinha...
 
 1928
-01:26:19,843 --> 01:26:22,413
+01:26:19,443 --> 01:26:22,413
 Oh ! a tia...
 Eu sou o  Major Horace Applegate.
 
@@ -8263,7 +8263,7 @@ do clube dos Exploradores.
 O que faz com essa arma?
 
 1931
-01:26:25,363 --> 01:26:26,872
+01:26:25,363 --> 01:26:26,472
 Andei caçando um leopardo.
 
 1932
@@ -8272,7 +8272,7 @@ Foi o que eu disse.
 Anda caçando leopardos?
 
 1933
-01:26:31,881 --> 01:26:32,603
+01:26:31,481 --> 01:26:32,603
 Teve sorte?
 
 1934
@@ -8296,7 +8296,7 @@ Rapazes, rapazes,,,
 Tem alguma coisa em mente...
 
 1939
-01:26:39,800 --> 01:26:42,057
+01:26:39,400 --> 01:26:42,057
 ...não tem ? Espere !
 Não. Espere !
 
@@ -8310,7 +8310,7 @@ Não tão depressa.
 Nós só queremos nos certificarr...
 
 1942
-01:26:48,817 --> 01:26:50,400
+01:26:48,417 --> 01:26:50,400
 Esta velha que temos aqui,
 
 1943
@@ -8430,12 +8430,12 @@ do leopardo!
 Parece que todos combinaram...
 
 1970
-01:27:50,014 --> 01:27:51,829
+01:27:50,014 --> 01:27:51,429
 E aquele roubo do
 banco na cidade?
 
 1971
-01:27:52,009 --> 01:27:53,876
+01:27:52,009 --> 01:27:53,476
 O que?  Aconteceu isso ? Quanto é que eles
 levaram?
 
@@ -8488,17 +8488,17 @@ Fale  agora.
 Hey, pé chato!
 
 1983
-01:28:16,023 --> 01:28:18,812
+01:28:16,023 --> 01:28:18,412
 Assim não vai a lugar nenhum,
 Venha aqui.
 
 1984
-01:28:18,875 --> 01:28:22,711
+01:28:18,475 --> 01:28:22,711
 Eu ? Sim, você, vá
 chega para cá...
 
 1985
-01:28:23,146 --> 01:28:24,841
+01:28:23,146 --> 01:28:24,441
 Quer saber tudo, não é?
 
 1986
@@ -8558,7 +8558,7 @@ Na mafia me chamam de
 Susie Porta de Balanço ?
 
 1998
-01:28:52,474 --> 01:28:55,809
+01:28:52,474 --> 01:28:55,409
 Agora você  me tira daqui ?
 Vamos,  soprador de apito, abra !
 
@@ -8567,7 +8567,7 @@ Vamos,  soprador de apito, abra !
 Hey, pare, pare ...
 
 2000
-01:28:57,863 --> 01:28:59,311
+01:28:57,463 --> 01:28:59,311
 Não vou abrir porta nenhuma...
 
 2001
@@ -8575,7 +8575,7 @@ Não vou abrir porta nenhuma...
 enquanto você não prometer falar...
 
 2002
-01:29:00,808 --> 01:29:03,262
+01:29:00,408 --> 01:29:03,262
 Falarei tanto que  seu
 cabelo vai ficar enrolado...
 
@@ -8597,7 +8597,7 @@ Susie Porta de Balanço ainda não fracassou.
 Estou longe disso, não estou ?
 
 2007
-01:29:14,185 --> 01:29:15,865
+01:29:14,185 --> 01:29:15,465
  Bem, adeus, turma.
 
 2008
@@ -8693,11 +8693,11 @@ Derruba-as todas, 1,2,3.  desse jeito.!
 Vou lhe enviar uma caixa de alpiste.
 
 2029
-01:30:06,647 --> 01:30:07,898
+01:30:06,647 --> 01:30:07,498
 Susan, eu quero que ...
 
 2030
-01:30:07,898 --> 01:30:09,404
+01:30:07,498 --> 01:30:09,404
 diga a verdade e não terá problemas.
 
 2031
@@ -8718,7 +8718,7 @@ Não se preocupe com ele.
 Sente-se aqui.
 
 2035
-01:30:15,652 --> 01:30:16,840
+01:30:15,652 --> 01:30:16,440
 Vamos, Doc. Pegue uma cadeira.
 
 2036
@@ -8726,12 +8726,12 @@ Vamos, Doc. Pegue uma cadeira.
 Elmer, pegue a máquina de escrever.
 
 2037
-01:30:18,804 --> 01:30:20,576
+01:30:18,404 --> 01:30:20,576
 Eu quero um depoimento
 como deve ser...
 
 2038
-01:30:21,054 --> 01:30:22,855
+01:30:21,054 --> 01:30:22,455
 Agora  senhorita, quero que fale rápido.
 
 2039
@@ -8774,7 +8774,7 @@ Não. não, sente-se...
 -Doc dê-lhe um dos seus...
 
 2048
-01:30:43,557 --> 01:30:45,894
+01:30:43,557 --> 01:30:45,494
 Agora, conte toda a verdade.
 
 2049
@@ -8787,7 +8787,7 @@ Ei, a minha cigarreira
 por favor!
 
 2051
-01:30:49,899 --> 01:30:52,321
+01:30:49,499 --> 01:30:52,321
 Já vem você de novo.
 
 2052
@@ -8818,7 +8818,7 @@ nesta época do ano.
 - Ah ! Isso é gelo quente, Senhor.
 
 2058
-01:31:10,838 --> 01:31:12,293
+01:31:10,438 --> 01:31:12,293
 a espera que esfriem.
 
 2059
@@ -8831,7 +8831,7 @@ Que quer dizer com "nós"?
 A quadrilha, a quadrilha, todos nós !
 
 2061
-01:31:15,880 --> 01:31:17,653
+01:31:15,480 --> 01:31:17,653
 Quer dizer que todos você s
 fazem parte da mesma quadrilha?
 
@@ -8840,7 +8840,7 @@ fazem parte da mesma quadrilha?
 Sim, a quadrilha do Leopardo.
 
 2063
-01:31:19,854 --> 01:31:21,877
+01:31:19,454 --> 01:31:21,477
 Bando do Leopardo.
 Estamos atras disso!
 
@@ -8867,7 +8867,7 @@ estou acostumado a isso..
 Se vira, cara !
 
 2069
-01:31:29,003 --> 01:31:30,828
+01:31:29,003 --> 01:31:30,428
 Leopardo não leva nenhum "u".
 
 2070
@@ -8876,7 +8876,7 @@ Leopardo não leva nenhum "u".
 - Duplo "u". - Isso, duplo "u".
 
 2071
-01:31:32,899 --> 01:31:34,148
+01:31:32,499 --> 01:31:34,148
 E o assalto ao banco?
 
 2072
@@ -8920,7 +8920,7 @@ Não tão depressa!
 você fala muito depressa!
 
 2081
-01:31:51,873 --> 01:31:52,826
+01:31:51,473 --> 01:31:52,426
 Eh ! Eh!  O que é isso ?
 
 2082
@@ -8957,7 +8957,7 @@ Olhe !
 Vão rapazes, atrás dela!
 
 2090
-01:32:05,809 --> 01:32:06,879
+01:32:05,409 --> 01:32:06,479
 -Lá vai ela...
 
 2091
@@ -8965,7 +8965,7 @@ Vão rapazes, atrás dela!
 Se não a apanharem, vai haver...
 
 2092
-01:32:08,808 --> 01:32:12,291
+01:32:08,408 --> 01:32:12,291
 mudanças neste departamento...
 Peguem ela !
 
@@ -8984,11 +8984,11 @@ O que você quer ?
 Estou à procura ...
 
 2096
-01:32:17,548 --> 01:32:18,898
+01:32:17,548 --> 01:32:18,498
 Não me diga que anda a procura
 
 2097
-01:32:18,899 --> 01:32:20,648
+01:32:18,499 --> 01:32:20,648
 de um leopardo, senão prendo-o...
 
 2098
@@ -8996,7 +8996,7 @@ de um leopardo, senão prendo-o...
 Eu procuro a  Sra. Carlton-Random.
 
 2099
-01:32:23,477 --> 01:32:24,867
+01:32:23,477 --> 01:32:24,467
 Como anda todo mundo.
 
 2100
@@ -9009,7 +9009,7 @@ Mas eu lhe digo que ela não está aqui.
 - Quem é você ?
 
 2102
-01:32:28,392 --> 01:32:29,869
+01:32:28,392 --> 01:32:29,469
 Sou o seu advogado, Alexander Peabody.
 
 2103
@@ -9018,7 +9018,7 @@ E eu sou Miss Swallow e
 procuro o Dr. Huxley.
 
 2104
-01:32:32,822 --> 01:32:35,328
+01:32:32,422 --> 01:32:35,328
 Ele está aqui com Mrs. Random.
 
 2105
@@ -9035,7 +9035,7 @@ Um gangster chamado Bone é o seu
 cumplice Horace Cara de Bebê...
 
 2108
-01:32:43,850 --> 01:32:44,357
+01:32:43,450 --> 01:32:44,357
 Pare !
 
 2109
@@ -9065,7 +9065,7 @@ Sim, lembro-me...
 Quero ver minha cliente, imediatamente!
 
 2115
-01:32:54,424 --> 01:32:55,823
+01:32:54,424 --> 01:32:55,423
 Slocum, você deve ter  errado !
 
 2116
@@ -9115,7 +9115,7 @@ Claro que é Mrs. Random, isto é absurdo.
 Abra a porta imediatamente!
 
 2127
-01:33:22,707 --> 01:33:23,895
+01:33:22,707 --> 01:33:23,495
 Está certo. E ele ?
 
 2128
@@ -9153,7 +9153,7 @@ Oh ! Realmente, David
 E solte aquele jovem tambem!
 
 2136
-01:33:36,814 --> 01:33:39,095
+01:33:36,414 --> 01:33:39,095
 -Ora bolas, parece que fiz asneira!
 
 2137
@@ -9166,7 +9166,7 @@ do que pedir desculpas...
 Não pense que isto fica por aqui...
 
 2139
-01:33:42,862 --> 01:33:43,854
+01:33:42,462 --> 01:33:43,454
 Huxley !
 
 2140
@@ -9187,21 +9187,21 @@ Bem, veja ...
 Quer me dizer que é este rapaz
 
 2144
-01:33:49,802 --> 01:33:51,611
+01:33:49,402 --> 01:33:51,611
 que queria que eu doasse um
 milhão de dólares para o museu dele ?
 
 2145
-01:33:52,410 --> 01:33:53,818
+01:33:52,410 --> 01:33:53,418
 Sim, sim...
 Não, não, não.
 
 2146
-01:33:53,873 --> 01:33:55,451
+01:33:53,473 --> 01:33:55,451
 Pensei, mas mudei de idéia.
 
 2147
-01:33:55,826 --> 01:33:57,769
+01:33:55,426 --> 01:33:57,769
 David, o que foi que fez?
 
 2148
@@ -9219,12 +9219,12 @@ A verdade, que perdemos
 o leopardo.
 
 2151
-01:34:14,826 --> 01:34:16,626
+01:34:14,426 --> 01:34:16,626
 Ei, você  é o chefe da
 polícia aqui?
 
 2152
-01:34:16,865 --> 01:34:19,224
+01:34:16,465 --> 01:34:19,224
 Sim, pelo menos até a
 proxima eleição. O que é?
 
@@ -9247,7 +9247,7 @@ Não me digam que estão a
 procura de um leopardo...
 
 2157
-01:34:27,850 --> 01:34:29,069
+01:34:27,450 --> 01:34:29,069
 Como é que adivinhou?
 
 2158
@@ -9255,15 +9255,15 @@ Como é que adivinhou?
 - Adivinhei o que?
 
 2159
-01:34:31,752 --> 01:34:32,811
+01:34:31,752 --> 01:34:32,411
 - Que estamos a procura de um leopardo.
 
 2160
-01:34:33,261 --> 01:34:35,845
+01:34:33,261 --> 01:34:35,445
 Olhem aqui isto foi longe demais...
 
 2161
-01:34:35,870 --> 01:34:38,226
+01:34:35,470 --> 01:34:38,226
 Não ha leopardos neste
 Estado de Connecticut.
 
@@ -9290,7 +9290,7 @@ Tudo ficará  bem...
 Alô, Baby !
 
 2167
-01:34:56,402 --> 01:34:57,816
+01:34:56,402 --> 01:34:57,416
 Este é o meu leopardo?
 
 2168
@@ -9298,7 +9298,7 @@ Este é o meu leopardo?
 -Sim é o Baby...
 
 2169
-01:34:59,856 --> 01:35:01,530
+01:34:59,456 --> 01:35:01,530
 Ele não age assim comigo.
 
 2170
@@ -9310,7 +9310,7 @@ Espere um pouco.
 Este leopardo não é o  meu.
 
 2172
-01:35:04,836 --> 01:35:07,274
+01:35:04,436 --> 01:35:07,274
 Claro que não e, por isso
 o tiramos do caminhão.
 
@@ -9352,7 +9352,7 @@ Pobre Susan, está em perigo
 e indefesa sem mim!
 
 2181
-01:35:28,519 --> 01:35:32,849
+01:35:28,519 --> 01:35:32,449
 -O que se passa contigo..
 -Anda logo...
 
@@ -9361,7 +9361,7 @@ e indefesa sem mim!
 Se não andar, eu lhe arrasto.
 
 2183
-01:35:35,442 --> 01:35:36,848
+01:35:35,442 --> 01:35:36,448
 Você conseguiu fugir daqui.
 
 2184
@@ -9387,7 +9387,7 @@ Agora , escute. Eu sou
 tão deteminada como você.
 
 2189
-01:35:49,374 --> 01:35:51,894
+01:35:49,374 --> 01:35:51,494
 Por isso é melhor entrar...
 
 2190
@@ -9420,7 +9420,7 @@ Bem, desta vez os
 enganei.... Julgavam que..
 
 2197
-01:36:08,786 --> 01:36:11,841
+01:36:08,786 --> 01:36:11,441
 eu andava fazendo
 asneiras, mas o apanhei...
 
@@ -9443,7 +9443,7 @@ Não !
 - Nao, eu não o deixo ! Eu te amo.
 
 2202
-01:36:57,807 --> 01:36:59,237
+01:36:57,407 --> 01:36:59,237
 Cutuca ele, David ! Cutuca !
 
 2203
@@ -9494,7 +9494,7 @@ Quer dizer alguma coisa, David?
 Bem, eu... O que ? Sim...
 
 2214
-01:37:32,814 --> 01:37:34,361
+01:37:32,414 --> 01:37:34,361
 Sim... O que foi ?
 
 2215
@@ -9537,7 +9537,7 @@ Espere, não suba aí. Quero
 falar com você.
 
 2224
-01:38:17,836 --> 01:38:19,148
+01:38:17,436 --> 01:38:19,148
 Viu ?  Eu consegui !
 
 2225
@@ -9546,7 +9546,7 @@ Oh David, não consigo lhe ver...
 Onde você está ?
 
 2226
-01:38:22,109 --> 01:38:22,875
+01:38:22,109 --> 01:38:22,475
 Oh !  Apareceu...
 
 2227
@@ -9588,7 +9588,7 @@ Escreva-me uma carta.
 Não...
 
 2235
-01:38:42,843 --> 01:38:44,535
+01:38:42,443 --> 01:38:44,535
 -Vá, vá,...
 Vá para trás,  Susan...
 
@@ -9597,7 +9597,7 @@ Vá para trás,  Susan...
 -Isto aqui é muito alto ...
 
 2237
-01:38:48,851 --> 01:38:52,823
+01:38:48,451 --> 01:38:52,423
 Susan, por favor...
 Desça a escada, devagarinho...
 
@@ -9670,7 +9670,7 @@ Você não está agradecido, David ?
 Bem, acho que sim...
 
 2253
-01:39:29,864 --> 01:39:30,824
+01:39:29,464 --> 01:39:30,424
 Já é muito tarde.
 
 2254
@@ -9686,22 +9686,22 @@ Fiquei tão contente quando
 encontrei o osso esta manhã...
 
 2257
-01:39:36,801 --> 01:39:39,328
+01:39:36,401 --> 01:39:39,328
 David, se eu te pudesse fazer
 entender tudo o que aconteceu...
 
 2258
-01:39:39,484 --> 01:39:42,883
+01:39:39,484 --> 01:39:42,483
 Veja, tudo o que aconteceu, aconteceu,
 porque eu queria manter você perto de mim.
 
 2259
-01:39:42,585 --> 01:39:44,811
+01:39:42,585 --> 01:39:44,411
 ... e para isso fiz tudo o que me veio
 a cabeça...
 
 2260
-01:39:45,852 --> 01:39:48,743
+01:39:45,452 --> 01:39:48,743
 - Lamento muito.
 - Eu devia lhe agradecer.
 
@@ -9719,7 +9719,7 @@ Eu acabei de descobrir que foi o melhor dia
 que tive na minha vida inteira.
 
 2264
-01:39:56,661 --> 01:39:57,887
+01:39:56,661 --> 01:39:57,487
 -David, não está falando
 a sério...
 
@@ -9740,7 +9740,7 @@ Por isso é que foi tão bom....
 Você realmente se divertiu? Sério!
 
 2269
-01:40:06,885 --> 01:40:08,557
+01:40:06,485 --> 01:40:08,557
 Oh! Isso é maravilhoso!
 
 2270
@@ -9749,7 +9749,7 @@ Você sabe o que isso quer dizer que
 gosta de mim mais que um pouquinho ?
 
 2271
-01:40:12,112 --> 01:40:13,877
+01:40:12,112 --> 01:40:13,477
 Susan, mais do que isso.
 
 2272
@@ -9778,11 +9778,11 @@ Porque eu te amo tambem !
 Trabalhei anos, nisso.
 
 2278
-01:40:37,739 --> 01:40:38,809
+01:40:37,739 --> 01:40:38,409
 Oh!  David !
 
 2279
-01:40:45,855 --> 01:40:46,588
+01:40:45,455 --> 01:40:46,588
 Eu estou bem.
 
 2280
@@ -9798,7 +9798,7 @@ Tenha cuidado. Alguma coisa  vai ...
 Oh! estou caindo ...
 
 2283
-01:40:51,811 --> 01:40:53,491
+01:40:51,411 --> 01:40:53,491
 Oh! Meu Deus. Susan !
 
 2284
